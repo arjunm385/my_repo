@@ -6,9 +6,10 @@ public class String_prime {
 
 		String s = "hellooug";
 		StringBuffer sb = new StringBuffer();
-		boolean flag = false;
+		int count = 0;
 
 		for (int i = 0; i < s.length(); i++) {
+			count = 0;
 			if (i == 0 || i == 1)
 				sb.append(s.charAt(i));
 			else {
@@ -16,11 +17,11 @@ public class String_prime {
 				for (int j = 2; j <= i / 2; ++j) {
 
 					if (i % j == 0) {
-						flag = true;
+						count = 1;
 						break;
 					}
 				}
-				if (flag == true)
+				if (count == 1)
 					sb.append(s.charAt(i));
 				else
 					sb.append(Character.toUpperCase(s.charAt(i)));
