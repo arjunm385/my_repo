@@ -8,7 +8,7 @@ public class Null_pointer {
 		try {
 		System.out.println(s.toUpperCase());
 		}
-		catch(NullPointerException e) //we can use Exception in the place of NullPointerException
+		catch(Exception e) //we can use Exception in the place of NullPointerException
 		{
 			System.out.println("opps an error occured : "+e);
 		}
