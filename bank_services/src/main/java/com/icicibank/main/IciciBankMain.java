@@ -10,30 +10,29 @@ import com.icicibank.model.UserAccount;
 import com.icicibank.service.Emp_Details;
 import com.icicibank.service.User_Details;
 
-
 public class IciciBankMain {
 	private static Logger log = Logger.getLogger(IciciBankMain.class);
 
 	public static void main(String[] args) {
 		Emp_Details empdetailsImpl = new com.icicibank.service.Impl.Emp_DetailsImpl();
 		User_Details userdetailsImpl = new com.icicibank.service.Impl.User_DetailsImpl();
-		
-	
+
 		Scanner sc = new Scanner(System.in);
+		boolean c=true;
 
 		int ch = 0;
 
 		do {
-			log.info("Welcome to icici banking service app V1.0");
+			log.info("Welcome to ICICI Sanking Service App v1.0");
 			log.info("===========================================");
-			log.info("\nplease select the suitable option below");
+			log.info("\nPlease select suitable option from below");
 			log.info("1)Login");
 			log.info("2)Register");
 			log.info("3)Exit");
-			log.info("enter your choice between 1-3");
+			log.info("Enter your choice between 1-3");
 			log.info("\n===========================================");
-			log.info("NOTE- please register if you are a new customer");
-			log.info("#for any queries, feel free to contact @support.icici.com");
+			log.info("NOTE- Please register if you are a new customer");
+			log.info("#For any queries, feel free to contact @support.icici.com");
 			try {
 				ch = Integer.parseInt(sc.nextLine());
 
@@ -41,60 +40,106 @@ public class IciciBankMain {
 				case 1:
 					int s = 0;
 					do {
-						log.info("Hey there please choose from below");
+						log.info("Hey there! Please choose from below options-");
 						log.info("===========================================");
 
 						log.info("\n1)Login as a customer");
 						log.info("2)Login as an employee");
-						log.info("3)Main menu");
+						log.info("3)Return to Main Menu");
 						try {
 							s = Integer.parseInt(sc.nextLine());
 
 							switch (s) {
 							case 1:
-								int id;
-								boolean c;
+								
+								int d = 0;
+								do {
+									c=true;
+									log.info("Please enter your registered userID");
+									int id = Integer.parseInt(sc.nextLine());
+									boolean z = userdetailsImpl.checkUserid(id);
+									
+									if(z==true)
+									{
+										System.out.println("User Id found");
+										d=id;
+									}
+									else {
+										System.out.println("Incorrect User Id... Enter Again");
+										c=false;
+									}
+								}while(!c);
+
+								
 								do {
 									c = true;
-
-									log.info("please enter your registered userID");
-									id = Integer.parseInt(sc.nextLine());
-									int id1 = userdetailsImpl.checkUserid();
-									if (id != id1) {
-										System.out.println("user id not found....please retry");
-										c = false;
+									log.info("Enter your password");
+									String password = (sc.nextLine());
+									boolean z = userdetailsImpl.checkUserPassword(password,d);
+									if(z==true)
+									{
+										System.out.println("Password is correct");
+									}
+									else {
+										System.out.println("Incorrect Password... Enter Again");
+										c=false;
 									}
 								} while (!c);
+
+								log.info("Login Successful !");
+								log.info("===========================================");
+								int s2;
+								do {
+								log.info("Welcome to ICICI Banking Services");
+								log.info("Kindly choose from below options-");
+								log.info("1. Check Balance");
+								log.info("2. Cash Deposit");
+								log.info("3. Cash Withdrawl");
+								log.info("4. Go to Previous Menu");
+//								log.info("4. Transfer Money");
 								
-
+								s2 = Integer.parseInt(sc.nextLine());
+								long acc=userdetailsImpl.getAccountNumber(d);
+								try {
+									switch (s2) {
+									case 1:
+										float bal=userdetailsImpl.checkBalance(acc);
+										log.info("current account balance is :"+bal);
+										break;
+									case 2:
+										
+										break;
+									case 3:
+										
+										break;
+									case 4:
+										break;
+									default:
+										log.warn(
+												"\nInvalid Choice !! ... Please enter input between 1-4 or contact admin\n");
+										break;
+									}
+								} catch (NumberFormatException e) {
+									log.error("Invalid Entry ! **Please choose an option from above only**\n");
+								}
 								
-								 String password;
-								 do {
-										c = true;
-										String pass1;
-										log.info("please enter your password");
-										 password = (sc.nextLine());
-										pass1 = userdetailsImpl.checkUserPassword();
-										if (!password.equals(pass1)) {
-											System.out.println("incorrect....please retry");
-											c = false;
-										}
-									} while (!c);
-
-									log.info("login successfull");
-									log.info("===========================================");
-
+								}while(s2!=4);
+							
+								
 								break;
 							case 2:
 								
+								String password=null;
+								int id;
+
 								do {
 									c = true;
 
-									log.info("please enter your registered userID");
+									log.info("Please enter your registered userId");
 									id = Integer.parseInt(sc.nextLine());
 									int id1 = empdetailsImpl.checkEmpUid();
 									if (id != id1) {
-										System.out.println("user id not found....please retry");
+										System.out.println("User Id not found.... Please Retry");
 										c = false;
 									}
 								} while (!c);
@@ -102,29 +147,29 @@ public class IciciBankMain {
 								do {
 									c = true;
 									String pass1;
-									log.info("please enter your password");
+									log.info("Enter your Password");
 									password = (sc.nextLine());
 
 									pass1 = empdetailsImpl.checkEmpPassword();
 									if (!password.equals(pass1)) {
-										System.out.println("incorrect....please retry");
+										System.out.println("Incorrect !! .... Please Try again!");
 										c = false;
 									}
 								} while (!c);
 
-								log.info("login successfull");
+								log.info("Login Successful");
 								log.info("===========================================");
 								int s1 = 0;
 								do {
 									String name = empdetailsImpl.getEmpName();
-									log.info("welcome :" + name + " to icici banking service portal");
+									log.info("Welcome :" + name + " to ICICI Banking Service App");
 									log.info("===========================================");
-									log.info("\nplease select the suitable option below");
-									log.info("1)all customer details");
-									log.info("2)find customer details by filters");
-									log.info("3)delete customer account");
-									log.info("4)retuen to menu");
-									log.info("enter your choice between 1-4");
+									log.info("\nPlease select the suitable option from below-");
+									log.info("1)All customer details");
+									log.info("2)Find customer details by filters");
+									log.info("3)Delete customer account");
+									log.info("4)Return to menu");
+									log.info("Enter your choice between 1-4");
 
 									s1 = Integer.parseInt(sc.nextLine());
 									try {
@@ -139,22 +184,22 @@ public class IciciBankMain {
 											break;
 										default:
 											log.warn(
-													"\nInvalid Choice... Please enter input between 1-4 or contact admin\n");
+													"\nInvalid Choice !! ... Please enter input between 1-4 or contact admin\n");
 											break;
 										}
 									} catch (NumberFormatException e) {
-										log.error("invalid entry **please choose a number only from above**\n");
+										log.error("Invalid Entry ! **Please choose an option from above only**\n");
 									}
 								} while (s1 != 4);
 								break;
 							case 3:
 								break;
 							default:
-								log.warn("\nInvalid Choice... Please enter input between 1-3 or contact admin\n");
+								log.warn("\nInvalid Choice X ... Enter input between 1-3 or contact admin\n");
 								break;
 							}
 						} catch (NumberFormatException e) {
-							log.error("invalid entry **please choose a number only from above**\n");
+							log.error("Invalid Entry X **Please choose an option from above**\n");
 						}
 
 					} while (s != 3);
@@ -162,117 +207,107 @@ public class IciciBankMain {
 
 				case 2:
 
-					log.info("welcome to icici family please enter the following details for registration");
+					log.info("Welcome to ICICI Family. Please enter the following details for getting registered !");
 					log.info("===========================================");
-					log.info("please enter your name");
+					log.info("Please enter your Full Name");
 					String name = (sc.nextLine());
 
-					log.info("please enter your phone number");
+					log.info("Enter your Phone Number");
 					String mobile = (sc.nextLine());
 
-					
 					String password;
 					String pan;
-					 String aadhar;
-					 String city;
-					 String state;
-					 String pincode;
-					 float balance;
+					String aadhar;
+					String city;
+					String state;
+					String pincode;
+					float balance;
 
-					boolean c;
+					
 					do {
-						log.info("please enter your password");
+						log.info("Enter your Password");
 						password = (sc.nextLine());
 
-						log.info("please confirm your password");
+						log.info("Confirm Password");
 						String password1 = (sc.nextLine());
 						c = true;
 						if (!password.equals(password1)) {
 							c = false;
-							log.warn("password not matched...type again");
+							log.warn("X Password not matched! ... Type again");
 						}
 					} while (!c);
-                       int id=0;
-					User user = new User(id, name, password, mobile);
-				       
-						user = userdetailsImpl.registerUser(user);
-						if (user.getUserid() != 0) {
-							log.info("account created with following details");
-							log.info("name :" + name);
-							log.info("user id :" + user.getUserid());
-							log.info("phone no. :" + mobile);
-							log.info("phone no. :" + mobile);
-						}
-						else
-						log.error("choose different user id....user id already exist");
-						
-						log.info("===========================================");
-						log.info("opening bank account");
-						log.info("===========================================");
-						do {c=true;
-						log.info("please enter your pan number");
-						pan=(sc.nextLine());
-						if(!pan.matches("[A-Z]{5}[0-9]{4}[A-Z]{1}"))
-						{
-							log.warn("invalid pan...try again");
-							c=false;
-						}
-						}while(!c);
-						
-						do {c=true;
-						log.info("please enter your aadhar number");
-						aadhar=(sc.nextLine());
-						if(!aadhar.matches("[0-9]{12}"))
-						{
-							log.warn("invalid aadhar...try again");
-							c=false;
-						}
-						}while(!c);
-						
-						log.info("please enter your city");
-						city=(sc.nextLine());
 
-						log.info("please enter your state");
-						state=(sc.nextLine());
-						
-						do {c=true;
-						log.info("please enter your pincode");
-						pincode=(sc.nextLine());
-						if(!pincode.matches("[0-9]{6}"))
-						{
-							log.warn("invalid pincode...try again ");
-							c=false;
+					log.info("===========================================");
+					log.info("Opening new Bank Account");
+					log.info("===========================================");
+					do {
+						c = true;
+						log.info("Kindly enter your PAN number");
+						pan = (sc.nextLine());
+						if (!pan.matches("[A-Z]{5}[0-9]{4}[A-Z]{1}")) {
+							log.warn("Invalid PAN ! ... Try Again");
+							c = false;
 						}
-						}while(!c);
-						
-						do {c=true;
-						log.info("please enter opening account balance");
-						balance= Float.parseFloat(sc.nextLine());
-						if(balance==0 || balance < 0)
-						{
-							log.warn("enter positive balance only... ");
-							c=false;
+					} while (!c);
+
+					do {
+						c = true;
+						log.info("Please enter your 12-digit Aadhar Number");
+						aadhar = (sc.nextLine());
+						if (!aadhar.matches("[0-9]{12}")) {
+							log.warn("Invalid aadhar !! ... Type Again");
+							c = false;
 						}
-						}while(!c);
-						
-						long accno = 0;
-						
-						boolean status=false;
-						 
-						UserAccount userAccount= new UserAccount(user, accno, name, id, pan, aadhar, city, state, status, pincode, balance);
-						userAccount=userdetailsImpl.registerUserAccount(userAccount);
-						if (userAccount.getUserid() != 0) {
-							log.info("account created with following details");
-							log.info(userAccount);
+					} while (!c);
+
+					log.info("Enter your City name");
+					city = (sc.nextLine());
+
+					log.info("Enter your state");
+					state = (sc.nextLine());
+
+					do {
+						c = true;
+						log.info("Enter your Pincode");
+						pincode = (sc.nextLine());
+						if (!pincode.matches("[0-9]{6}")) {
+							log.warn("Invalid Pincode! ... Type Again ");
+							c = false;
 						}
-						else
-						log.error("choose different user id....user id already exist");
-						
-						
-						
+					} while (!c);
+
+					do {
+						c = true;
+						log.info("Enter opening account Balance deposit ");
+						balance = Float.parseFloat(sc.nextLine());
+						if (balance == 0 || balance < 0) {
+							log.warn("Enter positive Balance only... ");
+							c = false;
+						}
+					} while (!c);
+
+					int id = 0;
+					User user = new User(id, name, password, mobile);
+					user = userdetailsImpl.registerUser(user);
+					log.info("Account created with following details - ");
+					log.info("Name :" + name);
+					log.info("User id :" + user.getUserid());
+					log.info("Password :" + password);
+					log.info("Phone No. :" + mobile);
+					boolean status = false;
+					name = user.getCustname();
+					long accno = 0;
+					UserAccount userAccount = new UserAccount(user, accno, name, user.getUserid(), pan, aadhar, city,
+							state, status, pincode, balance);
+
+					userAccount = userdetailsImpl.registerUserAccount(userAccount);
+
+					log.info("Account created with following details - ");
+					log.info(userAccount);
+
 					break;
 				case 3:
-					log.info("\nThanks for using our App.. See you soon. :)");
+					log.info("\nThanks for using our App.. See you soon! :)");
 					break;
 				default:
 					log.warn("\nInvalid Choice... Please enter input between 1-3 or contact admin\n");
@@ -280,7 +315,7 @@ public class IciciBankMain {
 
 				}
 			} catch (NumberFormatException | BusinessException e) {
-				System.out.println("invalid entry **please choose a number only from above**\n");
+				System.out.println("Invalid Entry! X ! **Please choose an option from above only **\n");
 			}
 		} while (ch != 3);
 	}

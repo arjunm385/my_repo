@@ -8,7 +8,9 @@ public interface User_Details {
 
 	public User registerUser(User user) throws BusinessException;
 	public UserAccount registerUserAccount(UserAccount userAccount) throws BusinessException;
-	public int checkUserid()throws BusinessException;
-	public String checkUserPassword()throws BusinessException;
+	public boolean checkUserid(int id)throws BusinessException;
+	public  boolean checkUserPassword(String password,int id)throws BusinessException;
+	public long getAccountNumber(int id)throws BusinessException;
+	public float checkBalance(long account)throws BusinessException;
 
 }
