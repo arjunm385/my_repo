@@ -24,12 +24,12 @@ public class IciciBankMain {
 		int ch = 0;
 
 		do {
-			log.info("Welcome to ICICI Sanking Service App v1.0");
+			log.info("Welcome to ICICI Banking Service App v1.0");
 			log.info("===========================================");
 			log.info("\nPlease select suitable option from below");
-			log.info("1)Login");
-			log.info("2)Register");
-			log.info("3)Exit");
+			log.info("1) Login");
+			log.info("2) Register");
+			log.info("3) Exit");
 			log.info("Enter your choice between 1-3");
 			log.info("\n===========================================");
 			log.info("NOTE- Please register if you are a new customer");
@@ -41,12 +41,12 @@ public class IciciBankMain {
 				case 1:
 					int s = 0;
 					do {
-						log.info("Hey there! Please choose from below options-");
+						log.info("Hello there! Please choose from below options-");
 						log.info("===========================================");
 
-						log.info("\n1)Login as a customer");
-						log.info("2)Login as an employee");
-						log.info("3)Return to Main Menu");
+						log.info("\n1) Login as a customer");
+						log.info("2) Login as an employee");
+						log.info("3) Return to Main Menu");
 						try {
 							s = Integer.parseInt(sc.nextLine());
 
@@ -91,8 +91,8 @@ public class IciciBankMain {
 									log.info("1. Check Balance");
 									log.info("2. Cash Deposit");
 									log.info("3. Cash Withdrawl");
-									log.info("4. get mini statement");
-									log.info("5. check account number");
+									log.info("4. Get mini statement");
+									log.info("5. Check account number");
 									log.info("6. Go to Previous Menu");
 //								log.info("4. Transfer Money");
 
@@ -102,14 +102,14 @@ public class IciciBankMain {
 										switch (s2) {
 										case 1:
 											float bal = userdetailsImpl.checkBalance(acc);
-											log.info("current account balance is :" + bal);
+											log.info("Current Account Balance is :" + bal);
 											break;
 										case 2:
 
 											float amt;
 											do {
 												c = true;
-												log.info("enter amount you want to deposit :");
+												log.info("Enter amount you want to deposit :");
 
 												amt = Float.parseFloat(sc.nextLine());
 												if (amt == 0 || amt < 0) {
@@ -121,24 +121,24 @@ public class IciciBankMain {
 											float pamt = userdetailsImpl.checkBalance(acc);
 											userdetailsImpl.addBal(amt, pamt, acc);
 											log.info(
-													"updated account balance is :" + userdetailsImpl.checkBalance(acc));
+													"Updated Account Balance is :" + userdetailsImpl.checkBalance(acc));
 
 											break;
 										case 3:
 											pamt = userdetailsImpl.checkBalance(acc);
 											do {
 												c = true;
-												log.info("enter amount you want to withdrawl :");
+												log.info("Enter amount you want to withdraw :");
 
 												amt = Float.parseFloat(sc.nextLine());
 												if (amt > pamt) {
-													log.warn("not enough balance... ");
+													log.warn("NOT enough balance... ");
 													c = false;
 												}
 											} while (!c);
 											userdetailsImpl.withdrawBal(amt, pamt, acc);
 											log.info(
-													"updated account balance is :" + userdetailsImpl.checkBalance(acc));
+													"Updated Account Balance is :" + userdetailsImpl.checkBalance(acc));
 
 											break;
 										case 4:
@@ -151,7 +151,7 @@ public class IciciBankMain {
 											break;
 
 										case 5:
-											log.info("your account no. is: " + acc);
+											log.info("Your Account no. is: " + acc);
 											break;
 										case 6:
 											break;
@@ -188,7 +188,7 @@ public class IciciBankMain {
 								do {
 									c = true;
 									String pass1;
-									log.info("Enter your Password");
+									log.info("Enter Password");
 									password = (sc.nextLine());
 
 									pass1 = empdetailsImpl.checkEmpPassword();
@@ -198,7 +198,7 @@ public class IciciBankMain {
 									}
 								} while (!c);
 
-								log.info("Login Successful");
+								log.info("Login Successful!");
 								log.info("===========================================");
 								int s1 = 0;
 								do {
@@ -206,13 +206,13 @@ public class IciciBankMain {
 									log.info("Welcome :" + name + " to ICICI Banking Service App");
 									log.info("===========================================");
 									log.info("\nPlease select the suitable option from below-");
-									log.info("1)All customer details");
-									log.info("2)find customer details by account number");
-									log.info("3)find customer details by user id");
-									log.info("4)view transaction history of particular account");
-									log.info("5)All Transaction logs");
-									log.info("6)Delete customer account");
-									log.info("7)Return to menu");
+									log.info("1) Details of all customers");
+									log.info("2) Find customer details by Account Number");
+									log.info("3) Find customer details by User Id");
+									log.info("4) View transaction history of particular account");
+									log.info("5) All Transaction logs");
+									log.info("6) Delete customer account");
+									log.info("7) Return to menu");
 									log.info("Enter your choice between 1-7");
 
 									s1 = Integer.parseInt(sc.nextLine());
@@ -226,16 +226,15 @@ public class IciciBankMain {
 											long accn=0;
 											do {
 												c = true;
-												log.info("enter account number");
+												log.info("Enter Account Number");
 											     accn = Long.parseLong(sc.nextLine());
 												
 												boolean z = empdetailsImpl.checkUserAccount(accn);
 
 												if (z == true) {
 													System.out.println("Account Record Found");
-													d = id;
 												} else {
-													System.out.println("Incorrect Account Number... Enter Again");
+													System.out.println("Incorrect Account Number! Enter Again");
 													c = false;
 												}
 											} while (!c);
@@ -253,25 +252,55 @@ public class IciciBankMain {
 												boolean z = userdetailsImpl.checkUserid(u_id);
 
 												if (z == true) {
-													System.out.println("User Id found");
+													System.out.println("User Id found :)");
 													uid = u_id;
 												} else {
 													System.out.println("Incorrect User Id... Enter Again");
 													c = false;
 												}
 											} while (!c);
-											
 											 userAccount = empdetailsImpl.getAllUserDetailsById(uid);
 											log.info(userAccount);
 
 											break;
 										case 4:
-											
+											do {
+												c = true;
+												log.info("Enter Account Number");
+											     accn = Long.parseLong(sc.nextLine());
+												
+												boolean z = empdetailsImpl.checkUserAccount(accn);
+
+												if (z == true) {
+													System.out.println("Account Record Found");
+												} else {
+													System.out.println("Incorrect Account Number! Enter Again");
+													c = false;
+												}
+											} while (!c);
+											empdetailsImpl.getTransactionsByaccount(accn);
 											break;
 										case 5:
-											
+											empdetailsImpl.getAllTransactions();
 											break;
 										case 6:
+											do {
+												c = true;
+												log.info("Enter Account Number");
+											     accn = Long.parseLong(sc.nextLine());
+												
+												boolean z = empdetailsImpl.checkUserAccount(accn);
+
+												if (z == true) {
+													System.out.println("Account Record Found");
+												} else {
+													System.out.println("Incorrect Account Number... Enter Again");
+													c = false;
+												}
+											} while (!c);
+											
+											empdetailsImpl.deleteCustomerAccount(accn);
+											log.info("Customer Account Deleted... :(");
 											
 											break;
 										case 7:
@@ -372,7 +401,7 @@ public class IciciBankMain {
 
 					do {
 						c = true;
-						log.info("Enter opening account Balance deposit ");
+						log.info("Enter opening deposit amount");
 
 						balance = Float.parseFloat(sc.nextLine());
 						if (balance == 0 || balance < 0) {
@@ -392,7 +421,7 @@ public class IciciBankMain {
 					boolean status = false;
 					name = user.getCustname();
 					long accno = 0;
-					UserAccount userAccount = new UserAccount(user, accno, name, user.getUserid(), pan, aadhar, city,
+					UserAccount userAccount = new UserAccount(accno, name, user.getUserid(), pan, aadhar, city,
 							state, status, pincode, balance);
 
 					String open = "opening deposited balance";

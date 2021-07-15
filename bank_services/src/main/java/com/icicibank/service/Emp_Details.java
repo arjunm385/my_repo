@@ -12,5 +12,9 @@ public interface Emp_Details {
 	public UserAccount getAllUserDetailsByAccount(long account)throws BusinessException;
 	public boolean checkUserAccount(long accno)throws BusinessException;
 	public UserAccount getAllUserDetailsById(int uid)throws BusinessException;
+	public void getAllTransactions()throws BusinessException;
+	public void getTransactionsByaccount(long account)throws BusinessException;
+	public void deleteCustomerAccount(long account)throws BusinessException;
+	public int getUserIdByAccount(long account)throws BusinessException;
 
 }

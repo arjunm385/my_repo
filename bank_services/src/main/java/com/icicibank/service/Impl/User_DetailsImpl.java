@@ -145,11 +145,9 @@ public class User_DetailsImpl implements User_Details {
 			 }
 		}
 		catch (ClassNotFoundException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			e.getMessage();
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			e.getMessage();
 		}
 		return bal;
 	}
@@ -170,11 +168,9 @@ public class User_DetailsImpl implements User_Details {
 			 }
 		}
 		catch (ClassNotFoundException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			e.getMessage();
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			e.getMessage();
 		}
 		return account;
 		
@@ -195,11 +191,9 @@ public class User_DetailsImpl implements User_Details {
 			preparedStatement.executeUpdate();
 		}
 		catch (ClassNotFoundException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			e.getMessage();
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			e.getMessage();
 		}
 		
 		
@@ -220,11 +214,9 @@ public class User_DetailsImpl implements User_Details {
 		
 	}
 		catch (ClassNotFoundException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			e.getMessage();
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			e.getMessage();
 		}
 	}
 
@@ -244,11 +236,9 @@ public class User_DetailsImpl implements User_Details {
 			preparedStatement.executeUpdate();
 		}
 		catch (ClassNotFoundException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			e.getMessage();
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			e.getMessage();
 		}
 		
 	}
@@ -263,14 +253,12 @@ public class User_DetailsImpl implements User_Details {
 			preparedStatement.setFloat(2, amount);
 			preparedStatement.setString(3,t_type);
 			preparedStatement.executeUpdate();
-//			preparedStatement.getGeneratedKeys();
-		
+	
 	}
 		catch (ClassNotFoundException e) {
 			e.printStackTrace();
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			e.getMessage();
 		}
 		
 	}
@@ -299,8 +287,7 @@ public class User_DetailsImpl implements User_Details {
 		catch (ClassNotFoundException e) {
 			e.printStackTrace();
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			e.getMessage();
 		}
 		
 		return null;

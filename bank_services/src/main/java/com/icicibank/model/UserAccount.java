@@ -1,7 +1,6 @@
 package com.icicibank.model;
 
 public class UserAccount {
-    User user;
 	private long account;
 	private String name;
 	private int userid;
@@ -12,10 +11,9 @@ public class UserAccount {
 	private boolean status;
 	private String pincode;
 	private float balance;
-	public UserAccount(User user, long account, String name, int userid, String pan, String aadhar, String city,
-			String state, boolean status, String pincode, float balance) {
+	public UserAccount(long account, String name, int userid, String pan, String aadhar, String city, String state,
+			boolean status, String pincode, float balance) {
 		super();
-		this.user = user;
 		this.account = account;
 		this.name = name;
 		this.userid = userid;
@@ -26,12 +24,6 @@ public class UserAccount {
 		this.status = status;
 		this.pincode = pincode;
 		this.balance = balance;
-	}
-	public User getUser() {
-		return user;
-	}
-	public void setUser(User user) {
-		this.user = user;
 	}
 	public long getAccount() {
 		return account;
@@ -95,9 +87,9 @@ public class UserAccount {
 	}
 	@Override
 	public String toString() {
-		return "UserAccount [user=" + user + ", account=" + account + ", name=" + name + ", userid=" + userid + ", pan="
-				+ pan + ", aadhar=" + aadhar + ", city=" + city + ", state=" + state + ", status=" + status
-				+ ", pincode=" + pincode + ", balance=" + balance + "]";
+		return "UserAccount [account=" + account + ", name=" + name + ", userid=" + userid + ", pan=" + pan
+				+ ", aadhar=" + aadhar + ", city=" + city + ", state=" + state + ", status=" + status + ", pincode="
+				+ pincode + ", balance=" + balance + "]";
 	}
 	@Override
 	public int hashCode() {
@@ -112,7 +104,6 @@ public class UserAccount {
 		result = prime * result + ((pincode == null) ? 0 : pincode.hashCode());
 		result = prime * result + ((state == null) ? 0 : state.hashCode());
 		result = prime * result + (status ? 1231 : 1237);
-		result = prime * result + ((user == null) ? 0 : user.hashCode());
 		result = prime * result + userid;
 		return result;
 	}
@@ -161,15 +152,13 @@ public class UserAccount {
 			return false;
 		if (status != other.status)
 			return false;
-		if (user == null) {
-			if (other.user != null)
-				return false;
-		} else if (!user.equals(other.user))
-			return false;
 		if (userid != other.userid)
 			return false;
 		return true;
 	}
+	
+	
+	
 	
 	
 	
