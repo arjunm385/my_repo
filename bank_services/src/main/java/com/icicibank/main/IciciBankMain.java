@@ -1,9 +1,5 @@
 package com.icicibank.main;
 
-import java.util.Collection;
-import java.util.Iterator;
-import java.util.List;
-import java.util.ListIterator;
 import java.util.Scanner;
 
 import org.apache.log4j.Logger;
@@ -15,7 +11,6 @@ import com.icicibank.model.UserTransaction;
 import com.icicibank.service.Emp_Details;
 import com.icicibank.service.User_Details;
 
-
 public class IciciBankMain {
 	private static Logger log = Logger.getLogger(IciciBankMain.class);
 
@@ -24,7 +19,7 @@ public class IciciBankMain {
 		User_Details userdetailsImpl = new com.icicibank.service.Impl.User_DetailsImpl();
 
 		Scanner sc = new Scanner(System.in);
-		boolean c=true;
+		boolean c = true;
 
 		int ch = 0;
 
@@ -57,38 +52,33 @@ public class IciciBankMain {
 
 							switch (s) {
 							case 1:
-								
+
 								int d = 0;
 								do {
-									c=true;
+									c = true;
 									log.info("Please enter your registered userID");
 									int id = Integer.parseInt(sc.nextLine());
 									boolean z = userdetailsImpl.checkUserid(id);
-									
-									if(z==true)
-									{
-										System.out.println("User Id found");
-										d=id;
-									}
-									else {
-										System.out.println("Incorrect User Id... Enter Again");
-										c=false;
-									}
-								}while(!c);
 
-								
+									if (z == true) {
+										System.out.println("User Id found");
+										d = id;
+									} else {
+										System.out.println("Incorrect User Id... Enter Again");
+										c = false;
+									}
+								} while (!c);
+
 								do {
 									c = true;
 									log.info("Enter your password");
 									String password = (sc.nextLine());
-									boolean z = userdetailsImpl.checkUserPassword(password,d);
-									if(z==true)
-									{
+									boolean z = userdetailsImpl.checkUserPassword(password, d);
+									if (z == true) {
 										System.out.println("Password is correct");
-									}
-									else {
+									} else {
 										System.out.println("Incorrect Password... Enter Again");
-										c=false;
+										c = false;
 									}
 								} while (!c);
 
@@ -96,89 +86,91 @@ public class IciciBankMain {
 								log.info("===========================================");
 								int s2;
 								do {
-								log.info("Welcome to ICICI Banking Services");
-								log.info("Kindly choose from below options-");
-								log.info("1. Check Balance");
-								log.info("2. Cash Deposit");
-								log.info("3. Cash Withdrawl");
-								log.info("4. get mini statement");
-								log.info("5. check account number");
-								log.info("6. Go to Previous Menu");
+									log.info("Welcome to ICICI Banking Services");
+									log.info("Kindly choose from below options-");
+									log.info("1. Check Balance");
+									log.info("2. Cash Deposit");
+									log.info("3. Cash Withdrawl");
+									log.info("4. get mini statement");
+									log.info("5. check account number");
+									log.info("6. Go to Previous Menu");
 //								log.info("4. Transfer Money");
-								
-								s2 = Integer.parseInt(sc.nextLine());
-								long acc=userdetailsImpl.getAccountNumber(d);
-								try {
-									switch (s2) {
-									case 1:
-										float bal=userdetailsImpl.checkBalance(acc);
-										log.info("current account balance is :"+bal);
-										break;
-									case 2:
-										
-										float amt;
-										do {
-											c = true;
-											log.info("enter amount you want to deposit :");
-											
-											amt = Float.parseFloat(sc.nextLine());
-											if (amt == 0 || amt < 0) {
-												log.warn("Enter positive Balance only... ");
-												c = false;
-											}
-										} while (!c);
-										
-										float pamt=userdetailsImpl.checkBalance(acc);
-										userdetailsImpl.addBal(amt, pamt, acc);
-										log.info("updated account balance is :"+userdetailsImpl.checkBalance(acc));
-										
-										break;
-									case 3:
-										pamt=userdetailsImpl.checkBalance(acc);
-										do {
-											c = true;
-											log.info("enter amount you want to withdrawl :");
-											
-											amt = Float.parseFloat(sc.nextLine());
-											if (amt > pamt) {
-												log.warn("not enough balance... ");
-												c = false;
-											}
-										} while (!c);
-										userdetailsImpl.withdrawBal(amt, pamt, acc);
-										log.info("updated account balance is :"+userdetailsImpl.checkBalance(acc));
-										
-										break;
-									case 4:
-										long transactionid = 0;
-										String transactiontype = null;
-										float tamt = 0;
-										UserTransaction userTransaction= new UserTransaction(acc, tamt, transactionid, transactiontype);
-                                        userdetailsImpl.getTxnDetails(acc , userTransaction);					
-										break;
-										
-									case 5:
-										log.info("your account no. is: "+acc);
-										break;
-									case 6:
-										break;
-										
-									default:
-										log.warn(
-												"\nInvalid Choice !! ... Please enter input between 1-4 or contact admin\n");
-										break;
+
+									s2 = Integer.parseInt(sc.nextLine());
+									long acc = userdetailsImpl.getAccountNumber(d);
+									try {
+										switch (s2) {
+										case 1:
+											float bal = userdetailsImpl.checkBalance(acc);
+											log.info("current account balance is :" + bal);
+											break;
+										case 2:
+
+											float amt;
+											do {
+												c = true;
+												log.info("enter amount you want to deposit :");
+
+												amt = Float.parseFloat(sc.nextLine());
+												if (amt == 0 || amt < 0) {
+													log.warn("Enter positive Balance only... ");
+													c = false;
+												}
+											} while (!c);
+
+											float pamt = userdetailsImpl.checkBalance(acc);
+											userdetailsImpl.addBal(amt, pamt, acc);
+											log.info(
+													"updated account balance is :" + userdetailsImpl.checkBalance(acc));
+
+											break;
+										case 3:
+											pamt = userdetailsImpl.checkBalance(acc);
+											do {
+												c = true;
+												log.info("enter amount you want to withdrawl :");
+
+												amt = Float.parseFloat(sc.nextLine());
+												if (amt > pamt) {
+													log.warn("not enough balance... ");
+													c = false;
+												}
+											} while (!c);
+											userdetailsImpl.withdrawBal(amt, pamt, acc);
+											log.info(
+													"updated account balance is :" + userdetailsImpl.checkBalance(acc));
+
+											break;
+										case 4:
+											long transactionid = 0;
+											String transactiontype = null;
+											float tamt = 0;
+											UserTransaction userTransaction = new UserTransaction(acc, tamt,
+													transactionid, transactiontype);
+											userdetailsImpl.getTxnDetails(acc, userTransaction);
+											break;
+
+										case 5:
+											log.info("your account no. is: " + acc);
+											break;
+										case 6:
+											break;
+
+										default:
+											log.warn(
+													"\nInvalid Choice !! ... Please enter input between 1-4 or contact admin\n");
+											break;
+										}
+									} catch (NumberFormatException e) {
+										log.error("Invalid Entry ! **Please choose an option from above only**\n");
 									}
-								} catch (NumberFormatException e) {
-									log.error("Invalid Entry ! **Please choose an option from above only**\n");
-								}
-								
-								}while(s2!=6);
-							
-								
+
+								} while (s2 != 6);
+
 								break;
 							case 2:
-								
-								String password=null;
+
+								String password = null;
 								int id;
 
 								do {
@@ -215,21 +207,75 @@ public class IciciBankMain {
 									log.info("===========================================");
 									log.info("\nPlease select the suitable option from below-");
 									log.info("1)All customer details");
-									log.info("2)Find customer details by filters");
-									log.info("3)Delete customer account");
-									log.info("4)Return to menu");
-									log.info("Enter your choice between 1-4");
+									log.info("2)find customer details by account number");
+									log.info("3)find customer details by user id");
+									log.info("4)view transaction history of particular account");
+									log.info("5)All Transaction logs");
+									log.info("6)Delete customer account");
+									log.info("7)Return to menu");
+									log.info("Enter your choice between 1-7");
 
 									s1 = Integer.parseInt(sc.nextLine());
 									try {
 										switch (s1) {
 										case 1:
+											empdetailsImpl.getAllUserDetails();
 											break;
 										case 2:
+											
+											long accn=0;
+											do {
+												c = true;
+												log.info("enter account number");
+											     accn = Long.parseLong(sc.nextLine());
+												
+												boolean z = empdetailsImpl.checkUserAccount(accn);
+
+												if (z == true) {
+													System.out.println("Account Record Found");
+													d = id;
+												} else {
+													System.out.println("Incorrect Account Number... Enter Again");
+													c = false;
+												}
+											} while (!c);
+											
+											UserAccount userAccount = empdetailsImpl.getAllUserDetailsByAccount(accn);
+											log.info(userAccount);
+
 											break;
 										case 3:
+											int uid=0;
+											do {
+												c = true;
+												log.info("Please enter your registered userID");
+												int u_id = Integer.parseInt(sc.nextLine());
+												boolean z = userdetailsImpl.checkUserid(u_id);
+
+												if (z == true) {
+													System.out.println("User Id found");
+													uid = u_id;
+												} else {
+													System.out.println("Incorrect User Id... Enter Again");
+													c = false;
+												}
+											} while (!c);
+											
+											 userAccount = empdetailsImpl.getAllUserDetailsById(uid);
+											log.info(userAccount);
+
 											break;
 										case 4:
+											
+											break;
+										case 5:
+											
+											break;
+										case 6:
+											
+											break;
+										case 7:
+											
 											break;
 										default:
 											log.warn(
@@ -239,7 +285,7 @@ public class IciciBankMain {
 									} catch (NumberFormatException e) {
 										log.error("Invalid Entry ! **Please choose an option from above only**\n");
 									}
-								} while (s1 != 4);
+								} while (s1 != 7);
 								break;
 							case 3:
 								break;
@@ -272,7 +318,6 @@ public class IciciBankMain {
 					String pincode;
 					float balance;
 
-					
 					do {
 						log.info("Enter your Password");
 						password = (sc.nextLine());
@@ -328,7 +373,7 @@ public class IciciBankMain {
 					do {
 						c = true;
 						log.info("Enter opening account Balance deposit ");
-						
+
 						balance = Float.parseFloat(sc.nextLine());
 						if (balance == 0 || balance < 0) {
 							log.warn("Enter positive Balance only... ");
@@ -349,8 +394,8 @@ public class IciciBankMain {
 					long accno = 0;
 					UserAccount userAccount = new UserAccount(user, accno, name, user.getUserid(), pan, aadhar, city,
 							state, status, pincode, balance);
-					
-					String open="opening deposited balance";
+
+					String open = "opening deposited balance";
 					userAccount = userdetailsImpl.registerUserAccount(userAccount);
 					userdetailsImpl.txnAdd(open, userAccount.getAccount(), balance);
 
