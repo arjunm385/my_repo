@@ -1,5 +1,9 @@
 package com.icicibank.main;
 
+import java.util.Collection;
+import java.util.Iterator;
+import java.util.List;
+import java.util.ListIterator;
 import java.util.Scanner;
 
 import org.apache.log4j.Logger;
@@ -7,8 +11,10 @@ import org.apache.log4j.Logger;
 import com.icicibank.exceptions.BusinessException;
 import com.icicibank.model.User;
 import com.icicibank.model.UserAccount;
+import com.icicibank.model.UserTransaction;
 import com.icicibank.service.Emp_Details;
 import com.icicibank.service.User_Details;
+
 
 public class IciciBankMain {
 	private static Logger log = Logger.getLogger(IciciBankMain.class);
@@ -95,7 +101,9 @@ public class IciciBankMain {
 								log.info("1. Check Balance");
 								log.info("2. Cash Deposit");
 								log.info("3. Cash Withdrawl");
-								log.info("4. Go to Previous Menu");
+								log.info("4. get mini statement");
+								log.info("5. check account number");
+								log.info("6. Go to Previous Menu");
 //								log.info("4. Transfer Money");
 								
 								s2 = Integer.parseInt(sc.nextLine());
@@ -108,12 +116,53 @@ public class IciciBankMain {
 										break;
 									case 2:
 										
+										float amt;
+										do {
+											c = true;
+											log.info("enter amount you want to deposit :");
+											
+											amt = Float.parseFloat(sc.nextLine());
+											if (amt == 0 || amt < 0) {
+												log.warn("Enter positive Balance only... ");
+												c = false;
+											}
+										} while (!c);
+										
+										float pamt=userdetailsImpl.checkBalance(acc);
+										userdetailsImpl.addBal(amt, pamt, acc);
+										log.info("updated account balance is :"+userdetailsImpl.checkBalance(acc));
+										
 										break;
 									case 3:
+										pamt=userdetailsImpl.checkBalance(acc);
+										do {
+											c = true;
+											log.info("enter amount you want to withdrawl :");
+											
+											amt = Float.parseFloat(sc.nextLine());
+											if (amt > pamt) {
+												log.warn("not enough balance... ");
+												c = false;
+											}
+										} while (!c);
+										userdetailsImpl.withdrawBal(amt, pamt, acc);
+										log.info("updated account balance is :"+userdetailsImpl.checkBalance(acc));
 										
 										break;
 									case 4:
+										long transactionid = 0;
+										String transactiontype = null;
+										float tamt = 0;
+										UserTransaction userTransaction= new UserTransaction(acc, tamt, transactionid, transactiontype);
+                                        userdetailsImpl.getTxnDetails(acc , userTransaction);					
 										break;
+										
+									case 5:
+										log.info("your account no. is: "+acc);
+										break;
+									case 6:
+										break;
+										
 									default:
 										log.warn(
 												"\nInvalid Choice !! ... Please enter input between 1-4 or contact admin\n");
@@ -123,7 +172,7 @@ public class IciciBankMain {
 									log.error("Invalid Entry ! **Please choose an option from above only**\n");
 								}
 								
-								}while(s2!=4);
+								}while(s2!=6);
 							
 								
 								break;
@@ -279,6 +328,7 @@ public class IciciBankMain {
 					do {
 						c = true;
 						log.info("Enter opening account Balance deposit ");
+						
 						balance = Float.parseFloat(sc.nextLine());
 						if (balance == 0 || balance < 0) {
 							log.warn("Enter positive Balance only... ");
@@ -299,8 +349,10 @@ public class IciciBankMain {
 					long accno = 0;
 					UserAccount userAccount = new UserAccount(user, accno, name, user.getUserid(), pan, aadhar, city,
 							state, status, pincode, balance);
-
+					
+					String open="opening deposited balance";
 					userAccount = userdetailsImpl.registerUserAccount(userAccount);
+					userdetailsImpl.txnAdd(open, userAccount.getAccount(), balance);
 
 					log.info("Account created with following details - ");
 					log.info(userAccount);

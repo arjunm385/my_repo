@@ -1071,3 +1071,873 @@ Please select suitable option from below
 ===========================================
 [main] 2021-07-15 02:38:05 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
 [main] 2021-07-15 02:38:05 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 02:54:55 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 02:54:55 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 02:54:55 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 02:54:55 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 02:54:55 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 02:54:55 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 02:54:55 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 02:54:55 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 02:54:55 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 02:54:55 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 02:55:00 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 02:55:00 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 02:55:00 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 02:55:00 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 02:55:00 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 02:55:02 INFO  com.icicibank.main.IciciBankMain  - Please enter your registered userID
+[main] 2021-07-15 02:55:06 INFO  com.icicibank.main.IciciBankMain  - Enter your password
+[main] 2021-07-15 02:55:08 INFO  com.icicibank.main.IciciBankMain  - Login Successful !
+[main] 2021-07-15 02:55:08 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 02:55:08 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 02:55:08 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 02:55:08 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 02:55:08 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 02:55:08 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 02:55:08 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 02:55:11 INFO  com.icicibank.main.IciciBankMain  - current account balance is :1222.0
+[main] 2021-07-15 02:55:11 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 02:55:11 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 02:55:11 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 02:55:11 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 02:55:11 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 03:07:29 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 03:07:29 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 03:07:29 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 03:07:29 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 03:07:29 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 03:07:29 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 03:07:29 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 03:07:29 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 03:07:29 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 03:07:29 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 03:07:35 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 03:07:35 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 03:07:35 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 03:07:35 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 03:07:35 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 03:07:37 INFO  com.icicibank.main.IciciBankMain  - Please enter your registered userID
+[main] 2021-07-15 03:07:43 INFO  com.icicibank.main.IciciBankMain  - Enter your password
+[main] 2021-07-15 03:07:48 INFO  com.icicibank.main.IciciBankMain  - Login Successful !
+[main] 2021-07-15 03:07:48 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 03:07:48 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 03:07:48 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 03:07:48 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 03:07:48 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 03:07:48 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 03:07:48 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 03:07:53 INFO  com.icicibank.main.IciciBankMain  - current account balance is :0.0
+[main] 2021-07-15 03:07:53 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 03:07:53 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 03:07:53 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 03:07:53 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 03:07:53 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 03:08:26 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 03:08:26 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 03:08:26 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 03:08:26 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 03:08:26 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 03:08:26 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 03:08:26 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 03:08:26 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 03:08:26 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 03:08:26 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 03:08:31 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 03:08:31 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 03:08:31 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 03:08:31 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 03:08:31 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 03:08:32 INFO  com.icicibank.main.IciciBankMain  - Please enter your registered userID
+[main] 2021-07-15 03:08:35 INFO  com.icicibank.main.IciciBankMain  - Enter your password
+[main] 2021-07-15 03:08:36 INFO  com.icicibank.main.IciciBankMain  - Login Successful !
+[main] 2021-07-15 03:08:36 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 03:08:36 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 03:08:36 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 03:08:36 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 03:08:36 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 03:08:36 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 03:08:36 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 03:08:42 INFO  com.icicibank.main.IciciBankMain  - current account balance is :500000.0
+[main] 2021-07-15 03:08:42 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 03:08:42 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 03:08:42 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 03:08:42 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 03:08:42 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 03:12:14 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 03:12:14 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 03:12:14 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 03:12:14 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 03:12:14 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 03:12:14 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 03:12:14 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 03:12:14 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 03:12:14 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 03:12:14 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 03:12:25 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 03:12:25 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 03:12:25 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 03:12:25 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 03:12:25 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 03:12:27 INFO  com.icicibank.main.IciciBankMain  - Please enter your registered userID
+[main] 2021-07-15 03:12:30 INFO  com.icicibank.main.IciciBankMain  - Enter your password
+[main] 2021-07-15 03:12:32 INFO  com.icicibank.main.IciciBankMain  - Login Successful !
+[main] 2021-07-15 03:12:32 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 03:12:32 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 03:12:32 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 03:12:32 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 03:12:32 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 03:12:32 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 03:12:32 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 03:12:35 INFO  com.icicibank.main.IciciBankMain  - current account balance is :500000.0
+[main] 2021-07-15 03:12:35 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 03:12:35 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 03:12:35 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 03:12:35 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 03:12:35 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 03:12:35 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 03:12:38 INFO  com.icicibank.main.IciciBankMain  - current account balance is :500000.0
+[main] 2021-07-15 03:12:38 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 03:12:38 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 03:12:38 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 03:12:38 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 03:12:38 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 03:12:38 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 03:12:41 WARN  com.icicibank.main.IciciBankMain  - 
+Invalid Choice !! ... Please enter input between 1-4 or contact admin
+
+[main] 2021-07-15 03:12:41 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 03:12:41 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 03:12:41 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 03:12:41 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 03:12:41 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 03:12:41 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 03:12:49 ERROR com.icicibank.main.IciciBankMain  - Invalid Entry X **Please choose an option from above**
+
+[main] 2021-07-15 03:12:49 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 03:12:49 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 03:12:49 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 03:12:49 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 03:12:49 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 14:50:41 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 14:50:41 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 14:50:41 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 14:50:41 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 14:50:41 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 14:50:41 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 14:50:41 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 14:50:41 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 14:50:41 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 14:50:41 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 14:50:51 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 14:50:51 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 14:50:51 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 14:50:51 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 14:50:51 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 14:50:53 INFO  com.icicibank.main.IciciBankMain  - Please enter your registered userID
+[main] 2021-07-15 14:50:57 INFO  com.icicibank.main.IciciBankMain  - Enter your password
+[main] 2021-07-15 14:51:00 INFO  com.icicibank.main.IciciBankMain  - Login Successful !
+[main] 2021-07-15 14:51:00 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 14:51:00 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 14:51:00 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 14:51:00 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 14:51:00 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 14:51:00 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 14:51:00 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 14:51:03 INFO  com.icicibank.main.IciciBankMain  - current account balance is :500000.0
+[main] 2021-07-15 14:51:03 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 14:51:03 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 14:51:03 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 14:51:03 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 14:51:03 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 14:51:03 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 14:51:12 INFO  com.icicibank.main.IciciBankMain  - enter amount you want to deposit :
+[main] 2021-07-15 14:51:21 INFO  com.icicibank.main.IciciBankMain  - current account balance is :600000.0
+[main] 2021-07-15 14:51:21 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 14:51:21 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 14:51:21 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 14:51:21 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 14:51:21 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 14:51:21 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 14:51:29 INFO  com.icicibank.main.IciciBankMain  - current account balance is :600000.0
+[main] 2021-07-15 14:51:29 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 14:51:29 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 14:51:29 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 14:51:29 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 14:51:29 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 14:51:29 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 15:05:06 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 15:05:06 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 15:05:06 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 15:05:06 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 15:05:06 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 15:05:06 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 15:05:06 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 15:05:06 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 15:05:06 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 15:05:06 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 15:05:15 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Family. Please enter the following details for getting registered !
+[main] 2021-07-15 15:05:15 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 15:05:15 INFO  com.icicibank.main.IciciBankMain  - Please enter your Full Name
+[main] 2021-07-15 15:05:22 INFO  com.icicibank.main.IciciBankMain  - Enter your Phone Number
+[main] 2021-07-15 15:05:31 INFO  com.icicibank.main.IciciBankMain  - Enter your Password
+[main] 2021-07-15 15:05:37 INFO  com.icicibank.main.IciciBankMain  - Confirm Password
+[main] 2021-07-15 15:05:39 WARN  com.icicibank.main.IciciBankMain  - X Password not matched! ... Type again
+[main] 2021-07-15 15:05:39 INFO  com.icicibank.main.IciciBankMain  - Enter your Password
+[main] 2021-07-15 15:05:43 INFO  com.icicibank.main.IciciBankMain  - Confirm Password
+[main] 2021-07-15 15:05:46 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 15:05:46 INFO  com.icicibank.main.IciciBankMain  - Opening new Bank Account
+[main] 2021-07-15 15:05:46 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 15:05:46 INFO  com.icicibank.main.IciciBankMain  - Kindly enter your PAN number
+[main] 2021-07-15 15:06:01 INFO  com.icicibank.main.IciciBankMain  - Please enter your 12-digit Aadhar Number
+[main] 2021-07-15 15:06:10 INFO  com.icicibank.main.IciciBankMain  - Enter your City name
+[main] 2021-07-15 15:06:16 INFO  com.icicibank.main.IciciBankMain  - Enter your state
+[main] 2021-07-15 15:06:19 INFO  com.icicibank.main.IciciBankMain  - Enter your Pincode
+[main] 2021-07-15 15:06:22 INFO  com.icicibank.main.IciciBankMain  - Enter opening account Balance deposit 
+[main] 2021-07-15 15:06:31 INFO  com.icicibank.main.IciciBankMain  - Account created with following details - 
+[main] 2021-07-15 15:06:31 INFO  com.icicibank.main.IciciBankMain  - Name :om parkash
+[main] 2021-07-15 15:06:31 INFO  com.icicibank.main.IciciBankMain  - User id :10005
+[main] 2021-07-15 15:06:31 INFO  com.icicibank.main.IciciBankMain  - Password :om123
+[main] 2021-07-15 15:06:31 INFO  com.icicibank.main.IciciBankMain  - Phone No. :8146625572
+[main] 2021-07-15 15:06:32 INFO  com.icicibank.main.IciciBankMain  - Account created with following details - 
+[main] 2021-07-15 15:06:32 INFO  com.icicibank.main.IciciBankMain  - UserAccount [user=User [userid=10005, custname=om parkash, pass=om123, phone=8146625572], account=7000005, name=om parkash, userid=10005, pan=CUKPA2424H, aadhar=945779276868, city=Patiala, state=Punjab, status=false, pincode=147003, balance=10000.0]
+[main] 2021-07-15 15:06:32 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 15:06:32 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 15:06:32 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 15:06:32 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 15:06:32 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 15:06:32 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 15:06:32 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 15:06:32 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 15:06:32 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 15:06:32 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 15:06:50 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 15:06:50 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 15:06:50 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 15:06:50 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 15:06:50 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 15:06:52 INFO  com.icicibank.main.IciciBankMain  - Please enter your registered userID
+[main] 2021-07-15 15:06:55 INFO  com.icicibank.main.IciciBankMain  - Enter your password
+[main] 2021-07-15 15:06:58 INFO  com.icicibank.main.IciciBankMain  - Enter your password
+[main] 2021-07-15 15:07:04 INFO  com.icicibank.main.IciciBankMain  - Login Successful !
+[main] 2021-07-15 15:07:04 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 15:07:04 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 15:07:04 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 15:07:04 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 15:07:04 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 15:07:04 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 15:07:04 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 15:07:13 INFO  com.icicibank.main.IciciBankMain  - current account balance is :10000.0
+[main] 2021-07-15 15:07:13 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 15:07:13 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 15:07:13 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 15:07:13 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 15:07:13 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 15:07:13 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 15:07:23 INFO  com.icicibank.main.IciciBankMain  - enter amount you want to deposit :
+[main] 2021-07-15 15:07:31 INFO  com.icicibank.main.IciciBankMain  - updated account balance is :15000.0
+[main] 2021-07-15 15:07:31 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 15:07:31 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 15:07:31 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 15:07:31 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 15:07:31 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 15:07:31 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 15:07:37 INFO  com.icicibank.main.IciciBankMain  - current account balance is :15000.0
+[main] 2021-07-15 15:07:37 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 15:07:37 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 15:07:37 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 15:07:37 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 15:07:37 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 15:07:37 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 15:07:41 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 15:07:41 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 15:07:41 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 15:07:41 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 15:07:41 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 15:07:45 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 15:07:45 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 15:07:45 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 15:07:45 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 15:07:45 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 15:07:45 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 15:07:45 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 15:07:45 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 15:07:45 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 15:07:45 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 15:07:47 INFO  com.icicibank.main.IciciBankMain  - 
+Thanks for using our App.. See you soon! :)
+[main] 2021-07-15 18:20:19 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 18:20:19 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 18:20:19 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 18:20:19 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 18:20:19 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 18:20:19 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 18:20:19 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 18:20:19 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 18:20:19 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 18:20:19 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 18:20:42 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 18:20:42 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 18:20:42 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 18:20:42 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 18:20:42 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 18:20:42 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 18:20:42 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 18:20:42 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 18:20:42 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 18:20:42 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 18:21:02 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Family. Please enter the following details for getting registered !
+[main] 2021-07-15 18:21:02 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 18:21:02 INFO  com.icicibank.main.IciciBankMain  - Please enter your Full Name
+[main] 2021-07-15 18:21:06 INFO  com.icicibank.main.IciciBankMain  - Enter your Phone Number
+[main] 2021-07-15 18:21:11 INFO  com.icicibank.main.IciciBankMain  - Enter your Password
+[main] 2021-07-15 18:21:16 INFO  com.icicibank.main.IciciBankMain  - Confirm Password
+[main] 2021-07-15 18:21:19 WARN  com.icicibank.main.IciciBankMain  - X Password not matched! ... Type again
+[main] 2021-07-15 18:21:19 INFO  com.icicibank.main.IciciBankMain  - Enter your Password
+[main] 2021-07-15 18:21:23 INFO  com.icicibank.main.IciciBankMain  - Confirm Password
+[main] 2021-07-15 18:21:24 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 18:21:24 INFO  com.icicibank.main.IciciBankMain  - Opening new Bank Account
+[main] 2021-07-15 18:21:24 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 18:21:24 INFO  com.icicibank.main.IciciBankMain  - Kindly enter your PAN number
+[main] 2021-07-15 18:21:29 WARN  com.icicibank.main.IciciBankMain  - Invalid PAN ! ... Try Again
+[main] 2021-07-15 18:21:29 INFO  com.icicibank.main.IciciBankMain  - Kindly enter your PAN number
+[main] 2021-07-15 18:21:37 INFO  com.icicibank.main.IciciBankMain  - Please enter your 12-digit Aadhar Number
+[main] 2021-07-15 18:21:39 WARN  com.icicibank.main.IciciBankMain  - Invalid aadhar !! ... Type Again
+[main] 2021-07-15 18:21:39 INFO  com.icicibank.main.IciciBankMain  - Please enter your 12-digit Aadhar Number
+[main] 2021-07-15 18:21:44 INFO  com.icicibank.main.IciciBankMain  - Enter your City name
+[main] 2021-07-15 18:21:46 INFO  com.icicibank.main.IciciBankMain  - Enter your state
+[main] 2021-07-15 18:21:47 INFO  com.icicibank.main.IciciBankMain  - Enter your Pincode
+[main] 2021-07-15 18:21:51 INFO  com.icicibank.main.IciciBankMain  - Enter opening account Balance deposit 
+[main] 2021-07-15 18:22:02 INFO  com.icicibank.main.IciciBankMain  - Account created with following details - 
+[main] 2021-07-15 18:22:02 INFO  com.icicibank.main.IciciBankMain  - Name :tarun
+[main] 2021-07-15 18:22:02 INFO  com.icicibank.main.IciciBankMain  - User id :10006
+[main] 2021-07-15 18:22:02 INFO  com.icicibank.main.IciciBankMain  - Password :1414
+[main] 2021-07-15 18:22:02 INFO  com.icicibank.main.IciciBankMain  - Phone No. :9056403286
+[main] 2021-07-15 18:22:02 INFO  com.icicibank.main.IciciBankMain  - Account created with following details - 
+[main] 2021-07-15 18:22:02 INFO  com.icicibank.main.IciciBankMain  - UserAccount [user=User [userid=10006, custname=tarun, pass=1414, phone=9056403286], account=7000006, name=tarun, userid=10006, pan=ASDFG2345A, aadhar=123212321231, city=JIJIJI, state=NUNU, status=false, pincode=147003, balance=20000.0]
+[main] 2021-07-15 18:22:02 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 18:22:02 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 18:22:02 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 18:22:02 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 18:22:02 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 18:22:02 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 18:22:02 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 18:22:02 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 18:22:02 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 18:22:02 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 18:22:21 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 18:22:21 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 18:22:21 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 18:22:21 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 18:22:21 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 18:22:25 INFO  com.icicibank.main.IciciBankMain  - Please enter your registered userID
+[main] 2021-07-15 18:22:27 INFO  com.icicibank.main.IciciBankMain  - Enter your password
+[main] 2021-07-15 18:22:30 INFO  com.icicibank.main.IciciBankMain  - Enter your password
+[main] 2021-07-15 18:22:32 INFO  com.icicibank.main.IciciBankMain  - Login Successful !
+[main] 2021-07-15 18:22:32 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 18:22:32 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 18:22:32 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 18:22:32 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 18:22:32 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 18:22:32 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 18:22:32 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 18:22:36 INFO  com.icicibank.main.IciciBankMain  - current account balance is :20000.0
+[main] 2021-07-15 18:22:36 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 18:22:36 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 18:22:36 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 18:22:36 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 18:22:36 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 18:22:36 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 18:22:43 INFO  com.icicibank.main.IciciBankMain  - enter amount you want to deposit :
+[main] 2021-07-15 18:22:47 WARN  com.icicibank.main.IciciBankMain  - Enter positive Balance only... 
+[main] 2021-07-15 18:22:47 INFO  com.icicibank.main.IciciBankMain  - enter amount you want to deposit :
+[main] 2021-07-15 18:22:51 INFO  com.icicibank.main.IciciBankMain  - updated account balance is :26000.0
+[main] 2021-07-15 18:22:51 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 18:22:51 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 18:22:51 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 18:22:51 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 18:22:51 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 18:22:51 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 18:22:54 INFO  com.icicibank.main.IciciBankMain  - current account balance is :26000.0
+[main] 2021-07-15 18:22:54 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 18:22:54 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 18:22:54 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 18:22:54 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 18:22:54 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 18:22:54 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 18:22:59 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 18:22:59 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 18:22:59 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 18:22:59 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 18:22:59 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 18:23:04 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 18:23:04 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 18:23:04 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 18:23:04 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 18:23:04 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 18:23:04 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 18:23:04 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 18:23:04 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 18:23:04 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 18:23:04 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 18:23:06 INFO  com.icicibank.main.IciciBankMain  - 
+Thanks for using our App.. See you soon! :)
+[main] 2021-07-15 20:39:41 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 20:39:41 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 20:39:41 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 20:39:41 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 20:39:41 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 20:39:41 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 20:39:41 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 20:39:41 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 20:39:41 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 20:39:41 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 20:39:46 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 20:39:46 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 20:39:46 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 20:39:46 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 20:39:46 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 20:39:48 INFO  com.icicibank.main.IciciBankMain  - Please enter your registered userID
+[main] 2021-07-15 20:39:52 INFO  com.icicibank.main.IciciBankMain  - Enter your password
+[main] 2021-07-15 20:39:54 INFO  com.icicibank.main.IciciBankMain  - Login Successful !
+[main] 2021-07-15 20:39:54 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 20:39:54 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 20:39:54 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 20:39:54 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 20:39:54 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 20:39:54 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 20:39:54 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 20:39:59 INFO  com.icicibank.main.IciciBankMain  - enter amount you want to deposit :
+[main] 2021-07-15 20:40:05 WARN  com.icicibank.main.IciciBankMain  - not enough balance... 
+[main] 2021-07-15 20:40:05 INFO  com.icicibank.main.IciciBankMain  - enter amount you want to deposit :
+[main] 2021-07-15 20:40:13 WARN  com.icicibank.main.IciciBankMain  - not enough balance... 
+[main] 2021-07-15 20:40:13 INFO  com.icicibank.main.IciciBankMain  - enter amount you want to deposit :
+[main] 2021-07-15 20:41:06 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 20:41:06 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 20:41:06 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 20:41:06 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 20:41:06 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 20:41:06 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 20:41:06 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 20:41:06 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 20:41:06 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 20:41:06 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 20:41:13 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 20:41:13 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 20:41:13 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 20:41:13 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 20:41:13 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 20:41:15 INFO  com.icicibank.main.IciciBankMain  - Please enter your registered userID
+[main] 2021-07-15 20:41:17 INFO  com.icicibank.main.IciciBankMain  - Enter your password
+[main] 2021-07-15 20:41:19 INFO  com.icicibank.main.IciciBankMain  - Login Successful !
+[main] 2021-07-15 20:41:19 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 20:41:19 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 20:41:19 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 20:41:19 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 20:41:19 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 20:41:19 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 20:41:19 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 20:41:25 INFO  com.icicibank.main.IciciBankMain  - current account balance is :26000.0
+[main] 2021-07-15 20:41:25 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 20:41:25 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 20:41:25 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 20:41:25 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 20:41:25 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 20:41:25 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 20:41:29 INFO  com.icicibank.main.IciciBankMain  - enter amount you want to deposit :
+[main] 2021-07-15 20:41:32 INFO  com.icicibank.main.IciciBankMain  - updated account balance is :24000.0
+[main] 2021-07-15 20:41:32 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 20:41:32 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 20:41:32 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 20:41:32 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 20:41:32 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 20:41:32 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 20:41:35 INFO  com.icicibank.main.IciciBankMain  - current account balance is :24000.0
+[main] 2021-07-15 20:41:35 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 20:41:35 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 20:41:35 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 20:41:35 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 20:41:35 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 20:41:35 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 20:41:40 INFO  com.icicibank.main.IciciBankMain  - enter amount you want to deposit :
+[main] 2021-07-15 20:41:45 INFO  com.icicibank.main.IciciBankMain  - updated account balance is :27000.0
+[main] 2021-07-15 20:41:45 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 20:41:45 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 20:41:45 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 20:41:45 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 20:41:45 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 20:41:45 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 20:41:49 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 20:41:49 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 20:41:49 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 20:41:49 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 20:41:49 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 20:41:53 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 20:41:53 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 20:41:53 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 20:41:53 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 20:41:53 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 20:41:53 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 20:41:53 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 20:41:53 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 20:41:53 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 20:41:53 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 20:41:58 INFO  com.icicibank.main.IciciBankMain  - 
+Thanks for using our App.. See you soon! :)
+[main] 2021-07-15 20:46:38 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 20:46:38 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 20:46:38 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 20:46:38 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 20:46:38 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 20:46:38 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 20:46:38 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 20:46:38 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 20:46:38 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 20:46:38 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 20:46:44 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 20:46:44 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 20:46:44 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 20:46:44 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 20:46:44 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 20:46:45 INFO  com.icicibank.main.IciciBankMain  - Please enter your registered userID
+[main] 2021-07-15 20:46:48 INFO  com.icicibank.main.IciciBankMain  - Enter your password
+[main] 2021-07-15 20:46:50 INFO  com.icicibank.main.IciciBankMain  - Login Successful !
+[main] 2021-07-15 20:46:50 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 20:46:50 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 20:46:50 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 20:46:50 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 20:46:50 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 20:46:50 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 20:46:50 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 20:46:52 INFO  com.icicibank.main.IciciBankMain  - current account balance is :27000.0
+[main] 2021-07-15 20:46:52 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 20:46:52 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 20:46:52 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 20:46:52 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 20:46:52 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 20:46:52 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 20:46:55 INFO  com.icicibank.main.IciciBankMain  - enter amount you want to deposit :
+[main] 2021-07-15 20:46:57 INFO  com.icicibank.main.IciciBankMain  - updated account balance is :29000.0
+[main] 2021-07-15 20:46:57 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 20:46:57 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 20:46:57 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 20:46:57 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 20:46:57 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 20:46:57 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 20:47:21 INFO  com.icicibank.main.IciciBankMain  - enter amount you want to withdrawl :
+[main] 2021-07-15 20:47:23 INFO  com.icicibank.main.IciciBankMain  - updated account balance is :28000.0
+[main] 2021-07-15 20:47:23 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 20:47:23 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 20:47:23 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 20:47:23 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 20:47:23 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 20:47:23 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 20:48:22 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 20:48:22 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 20:48:22 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 20:48:22 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 20:48:22 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 20:48:22 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 20:48:22 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 20:48:22 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 20:48:22 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 20:48:22 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 20:48:29 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 20:48:29 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 20:48:29 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 20:48:29 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 20:48:29 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 20:48:30 INFO  com.icicibank.main.IciciBankMain  - Please enter your registered userID
+[main] 2021-07-15 20:48:32 INFO  com.icicibank.main.IciciBankMain  - Enter your password
+[main] 2021-07-15 20:48:47 INFO  com.icicibank.main.IciciBankMain  - Login Successful !
+[main] 2021-07-15 20:48:47 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 20:48:47 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 20:48:47 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 20:48:47 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 20:48:47 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 20:48:47 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 20:48:47 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 20:48:50 INFO  com.icicibank.main.IciciBankMain  - enter amount you want to deposit :
+[main] 2021-07-15 20:48:52 INFO  com.icicibank.main.IciciBankMain  - updated account balance is :31000.0
+[main] 2021-07-15 20:48:52 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 20:48:52 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 20:48:52 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 20:48:52 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 20:48:52 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 20:48:52 INFO  com.icicibank.main.IciciBankMain  - 4. Go to Previous Menu
+[main] 2021-07-15 21:44:20 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 21:44:20 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 21:44:20 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 21:44:20 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 21:44:20 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 21:44:20 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 21:44:20 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 21:44:20 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 21:44:20 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 21:44:20 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 21:44:31 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 21:44:31 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 21:44:31 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 21:44:31 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 21:44:31 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 21:44:34 INFO  com.icicibank.main.IciciBankMain  - Please enter your registered userID
+[main] 2021-07-15 21:44:36 INFO  com.icicibank.main.IciciBankMain  - Enter your password
+[main] 2021-07-15 21:44:39 INFO  com.icicibank.main.IciciBankMain  - Login Successful !
+[main] 2021-07-15 21:44:39 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 21:44:39 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 21:44:39 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 21:44:39 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 21:44:39 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 21:44:39 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 21:44:39 INFO  com.icicibank.main.IciciBankMain  - 4. get mini statement
+[main] 2021-07-15 21:44:39 INFO  com.icicibank.main.IciciBankMain  - 5. check account details
+[main] 2021-07-15 21:44:39 INFO  com.icicibank.main.IciciBankMain  - 6. Go to Previous Menu
+[main] 2021-07-15 21:44:42 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 21:44:42 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 21:44:42 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 21:44:42 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 21:44:42 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 21:44:42 INFO  com.icicibank.main.IciciBankMain  - 4. get mini statement
+[main] 2021-07-15 21:44:42 INFO  com.icicibank.main.IciciBankMain  - 5. check account details
+[main] 2021-07-15 21:44:42 INFO  com.icicibank.main.IciciBankMain  - 6. Go to Previous Menu
+[main] 2021-07-15 21:46:51 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 21:46:51 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 21:46:51 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 21:46:51 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 21:46:51 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 21:46:51 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 21:46:51 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 21:46:51 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 21:46:51 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 21:46:51 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 21:47:11 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 21:47:11 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 21:47:11 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 21:47:11 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 21:47:11 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 21:47:13 INFO  com.icicibank.main.IciciBankMain  - Please enter your registered userID
+[main] 2021-07-15 21:47:16 INFO  com.icicibank.main.IciciBankMain  - Enter your password
+[main] 2021-07-15 21:47:20 INFO  com.icicibank.main.IciciBankMain  - Login Successful !
+[main] 2021-07-15 21:47:20 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 21:47:20 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 21:47:20 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 21:47:20 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 21:47:20 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 21:47:20 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 21:47:20 INFO  com.icicibank.main.IciciBankMain  - 4. get mini statement
+[main] 2021-07-15 21:47:20 INFO  com.icicibank.main.IciciBankMain  - 5. check account details
+[main] 2021-07-15 21:47:20 INFO  com.icicibank.main.IciciBankMain  - 6. Go to Previous Menu
+[main] 2021-07-15 21:47:25 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 21:47:25 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 21:47:25 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 21:47:25 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 21:47:25 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 21:47:25 INFO  com.icicibank.main.IciciBankMain  - 4. get mini statement
+[main] 2021-07-15 21:47:25 INFO  com.icicibank.main.IciciBankMain  - 5. check account details
+[main] 2021-07-15 21:47:25 INFO  com.icicibank.main.IciciBankMain  - 6. Go to Previous Menu
+[main] 2021-07-15 21:47:44 INFO  com.icicibank.main.IciciBankMain  - enter amount you want to deposit :
+[main] 2021-07-15 21:47:47 INFO  com.icicibank.main.IciciBankMain  - updated account balance is :34000.0
+[main] 2021-07-15 21:47:47 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 21:47:47 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 21:47:47 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 21:47:47 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 21:47:47 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 21:47:47 INFO  com.icicibank.main.IciciBankMain  - 4. get mini statement
+[main] 2021-07-15 21:47:47 INFO  com.icicibank.main.IciciBankMain  - 5. check account details
+[main] 2021-07-15 21:47:47 INFO  com.icicibank.main.IciciBankMain  - 6. Go to Previous Menu
+[main] 2021-07-15 21:47:49 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 21:47:49 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 21:47:49 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 21:47:49 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 21:47:49 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 21:47:49 INFO  com.icicibank.main.IciciBankMain  - 4. get mini statement
+[main] 2021-07-15 21:47:49 INFO  com.icicibank.main.IciciBankMain  - 5. check account details
+[main] 2021-07-15 21:47:49 INFO  com.icicibank.main.IciciBankMain  - 6. Go to Previous Menu
+[main] 2021-07-15 21:47:56 INFO  com.icicibank.main.IciciBankMain  - enter amount you want to withdrawl :
+[main] 2021-07-15 21:47:59 INFO  com.icicibank.main.IciciBankMain  - updated account balance is :28000.0
+[main] 2021-07-15 21:47:59 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 21:47:59 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 21:47:59 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 21:47:59 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 21:47:59 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 21:47:59 INFO  com.icicibank.main.IciciBankMain  - 4. get mini statement
+[main] 2021-07-15 21:47:59 INFO  com.icicibank.main.IciciBankMain  - 5. check account details
+[main] 2021-07-15 21:47:59 INFO  com.icicibank.main.IciciBankMain  - 6. Go to Previous Menu
+[main] 2021-07-15 21:48:02 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 21:48:02 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 21:48:02 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 21:48:02 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 21:48:02 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 21:48:02 INFO  com.icicibank.main.IciciBankMain  - 4. get mini statement
+[main] 2021-07-15 21:48:02 INFO  com.icicibank.main.IciciBankMain  - 5. check account details
+[main] 2021-07-15 21:48:02 INFO  com.icicibank.main.IciciBankMain  - 6. Go to Previous Menu
+[main] 2021-07-15 21:55:12 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 21:55:12 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 21:55:12 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 21:55:12 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 21:55:12 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 21:55:12 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 21:55:12 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 21:55:12 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 21:55:12 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 21:55:12 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 21:55:21 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 21:55:21 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 21:55:21 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 21:55:21 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 21:55:21 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 21:55:25 INFO  com.icicibank.main.IciciBankMain  - Please enter your registered userID
+[main] 2021-07-15 21:55:27 INFO  com.icicibank.main.IciciBankMain  - Enter your password
+[main] 2021-07-15 21:55:29 INFO  com.icicibank.main.IciciBankMain  - Login Successful !
+[main] 2021-07-15 21:55:29 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 21:55:29 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 21:55:29 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 21:55:29 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 21:55:29 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 21:55:29 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 21:55:29 INFO  com.icicibank.main.IciciBankMain  - 4. get mini statement
+[main] 2021-07-15 21:55:29 INFO  com.icicibank.main.IciciBankMain  - 5. check account number
+[main] 2021-07-15 21:55:29 INFO  com.icicibank.main.IciciBankMain  - 6. Go to Previous Menu
+[main] 2021-07-15 21:55:33 INFO  com.icicibank.main.IciciBankMain  - your account no. is: 7000004
+[main] 2021-07-15 21:55:33 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 21:55:33 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 21:55:33 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 21:55:33 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 21:55:33 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 21:55:33 INFO  com.icicibank.main.IciciBankMain  - 4. get mini statement
+[main] 2021-07-15 21:55:33 INFO  com.icicibank.main.IciciBankMain  - 5. check account number
+[main] 2021-07-15 21:55:33 INFO  com.icicibank.main.IciciBankMain  - 6. Go to Previous Menu
+[main] 2021-07-15 21:55:44 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 21:55:44 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 21:55:44 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 21:55:44 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 21:55:44 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 21:55:44 INFO  com.icicibank.main.IciciBankMain  - 4. get mini statement
+[main] 2021-07-15 21:55:44 INFO  com.icicibank.main.IciciBankMain  - 5. check account number
+[main] 2021-07-15 21:55:44 INFO  com.icicibank.main.IciciBankMain  - 6. Go to Previous Menu
+[main] 2021-07-15 22:00:08 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Sanking Service App v1.0
+[main] 2021-07-15 22:00:08 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 22:00:08 INFO  com.icicibank.main.IciciBankMain  - 
+Please select suitable option from below
+[main] 2021-07-15 22:00:08 INFO  com.icicibank.main.IciciBankMain  - 1)Login
+[main] 2021-07-15 22:00:08 INFO  com.icicibank.main.IciciBankMain  - 2)Register
+[main] 2021-07-15 22:00:08 INFO  com.icicibank.main.IciciBankMain  - 3)Exit
+[main] 2021-07-15 22:00:08 INFO  com.icicibank.main.IciciBankMain  - Enter your choice between 1-3
+[main] 2021-07-15 22:00:08 INFO  com.icicibank.main.IciciBankMain  - 
+===========================================
+[main] 2021-07-15 22:00:08 INFO  com.icicibank.main.IciciBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-15 22:00:08 INFO  com.icicibank.main.IciciBankMain  - #For any queries, feel free to contact @support.icici.com
+[main] 2021-07-15 22:00:17 INFO  com.icicibank.main.IciciBankMain  - Hey there! Please choose from below options-
+[main] 2021-07-15 22:00:17 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 22:00:17 INFO  com.icicibank.main.IciciBankMain  - 
+1)Login as a customer
+[main] 2021-07-15 22:00:17 INFO  com.icicibank.main.IciciBankMain  - 2)Login as an employee
+[main] 2021-07-15 22:00:17 INFO  com.icicibank.main.IciciBankMain  - 3)Return to Main Menu
+[main] 2021-07-15 22:00:19 INFO  com.icicibank.main.IciciBankMain  - Please enter your registered userID
+[main] 2021-07-15 22:00:21 INFO  com.icicibank.main.IciciBankMain  - Enter your password
+[main] 2021-07-15 22:00:22 INFO  com.icicibank.main.IciciBankMain  - Login Successful !
+[main] 2021-07-15 22:00:22 INFO  com.icicibank.main.IciciBankMain  - ===========================================
+[main] 2021-07-15 22:00:22 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 22:00:22 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 22:00:22 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 22:00:22 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 22:00:22 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 22:00:22 INFO  com.icicibank.main.IciciBankMain  - 4. get mini statement
+[main] 2021-07-15 22:00:22 INFO  com.icicibank.main.IciciBankMain  - 5. check account number
+[main] 2021-07-15 22:00:22 INFO  com.icicibank.main.IciciBankMain  - 6. Go to Previous Menu
+[main] 2021-07-15 22:00:51 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 22:00:51 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 22:00:51 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 22:00:51 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 22:00:51 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 22:00:51 INFO  com.icicibank.main.IciciBankMain  - 4. get mini statement
+[main] 2021-07-15 22:00:51 INFO  com.icicibank.main.IciciBankMain  - 5. check account number
+[main] 2021-07-15 22:00:51 INFO  com.icicibank.main.IciciBankMain  - 6. Go to Previous Menu
+[main] 2021-07-15 22:01:04 INFO  com.icicibank.main.IciciBankMain  - current account balance is :600000.0
+[main] 2021-07-15 22:01:04 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 22:01:04 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 22:01:04 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 22:01:04 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 22:01:04 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 22:01:04 INFO  com.icicibank.main.IciciBankMain  - 4. get mini statement
+[main] 2021-07-15 22:01:04 INFO  com.icicibank.main.IciciBankMain  - 5. check account number
+[main] 2021-07-15 22:01:04 INFO  com.icicibank.main.IciciBankMain  - 6. Go to Previous Menu
+[main] 2021-07-15 22:01:06 INFO  com.icicibank.main.IciciBankMain  - enter amount you want to deposit :
+[main] 2021-07-15 22:01:08 INFO  com.icicibank.main.IciciBankMain  - updated account balance is :602000.0
+[main] 2021-07-15 22:01:08 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 22:01:08 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 22:01:08 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 22:01:08 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 22:01:08 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 22:01:08 INFO  com.icicibank.main.IciciBankMain  - 4. get mini statement
+[main] 2021-07-15 22:01:08 INFO  com.icicibank.main.IciciBankMain  - 5. check account number
+[main] 2021-07-15 22:01:08 INFO  com.icicibank.main.IciciBankMain  - 6. Go to Previous Menu
+[main] 2021-07-15 22:01:12 INFO  com.icicibank.main.IciciBankMain  - Welcome to ICICI Banking Services
+[main] 2021-07-15 22:01:12 INFO  com.icicibank.main.IciciBankMain  - Kindly choose from below options-
+[main] 2021-07-15 22:01:12 INFO  com.icicibank.main.IciciBankMain  - 1. Check Balance
+[main] 2021-07-15 22:01:12 INFO  com.icicibank.main.IciciBankMain  - 2. Cash Deposit
+[main] 2021-07-15 22:01:12 INFO  com.icicibank.main.IciciBankMain  - 3. Cash Withdrawl
+[main] 2021-07-15 22:01:12 INFO  com.icicibank.main.IciciBankMain  - 4. get mini statement
+[main] 2021-07-15 22:01:12 INFO  com.icicibank.main.IciciBankMain  - 5. check account number
+[main] 2021-07-15 22:01:12 INFO  com.icicibank.main.IciciBankMain  - 6. Go to Previous Menu
