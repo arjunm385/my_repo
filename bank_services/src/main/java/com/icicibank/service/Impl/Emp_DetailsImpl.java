@@ -22,7 +22,7 @@ public class Emp_DetailsImpl implements Emp_Details {
 			String sql = "select user_id from emp_details";
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
 			ResultSet resultSet = preparedStatement.executeQuery();
-			while (resultSet.next()) {
+			if(resultSet.next()) {
 				id = resultSet.getInt("user_id");
 			}
 		} catch (ClassNotFoundException e) {
@@ -41,7 +41,7 @@ public class Emp_DetailsImpl implements Emp_Details {
 			String sql = "select password from icicibank_db.emp_details";
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
 			ResultSet resultSet = preparedStatement.executeQuery();
-			while (resultSet.next()) {
+			if (resultSet.next()) {
 				pass = resultSet.getString("password");
 			}
 		} catch (ClassNotFoundException e) {
