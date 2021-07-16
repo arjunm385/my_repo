@@ -93,8 +93,8 @@ public class IciciBankMain {
 									log.info("3. Cash Withdrawl");
 									log.info("4. Get mini statement");
 									log.info("5. Check account number");
-									log.info("6. Go to Previous Menu");
-//								log.info("4. Transfer Money");
+									log.info("6. Transfer Money");
+									log.info("7. Go to Previous Menu");
 
 									s2 = Integer.parseInt(sc.nextLine());
 									long acc = userdetailsImpl.getAccountNumber(d);
@@ -154,6 +154,42 @@ public class IciciBankMain {
 											log.info("Your Account no. is: " + acc);
 											break;
 										case 6:
+											long tr_acc = 0;
+											do {
+												c = true;
+												log.info("Enter Account Number of Other User");
+												tr_acc = Long.parseLong(sc.nextLine());
+												boolean z = false;
+												if (tr_acc == acc)
+													log.info("Please enter other person's account number...NOT Yours");
+
+												else
+													z = empdetailsImpl.checkUserAccount(tr_acc);
+
+												if (z == true) {
+													log.info("Account Record Found");
+													log.info("name: " + userdetailsImpl.getUserNameByAccount(tr_acc));
+
+												} else {
+													System.out.println("Incorrect Account Number! Enter Again");
+													c = false;
+												}
+
+											} while (!c);
+
+											log.info("Enter Amount you Want to Transfer: ");
+											float tr_amt = Float.parseFloat(sc.nextLine());
+											if (tr_amt > userdetailsImpl.checkBalance(acc)) {
+												log.info("NOT enough balance...Go and deposit some money :(");
+											} else {
+												userdetailsImpl.moneyTransfer(tr_amt, acc, tr_acc);
+												log.info("Money Transfer to account: "+tr_acc+" is Successful");
+												log.info("Your Updated Balance is: "+userdetailsImpl.checkBalance(acc));
+											}
+
+											break;
+
+										case 7:
 											break;
 
 										default:
@@ -165,7 +201,7 @@ public class IciciBankMain {
 										log.error("Invalid Entry ! **Please choose an option from above only**\n");
 									}
 
-								} while (s2 != 6);
+								} while (s2 != 7);
 
 								break;
 							case 2:
@@ -222,13 +258,13 @@ public class IciciBankMain {
 											empdetailsImpl.getAllUserDetails();
 											break;
 										case 2:
-											
-											long accn=0;
+
+											long accn = 0;
 											do {
 												c = true;
 												log.info("Enter Account Number");
-											     accn = Long.parseLong(sc.nextLine());
-												
+												accn = Long.parseLong(sc.nextLine());
+
 												boolean z = empdetailsImpl.checkUserAccount(accn);
 
 												if (z == true) {
@@ -238,13 +274,13 @@ public class IciciBankMain {
 													c = false;
 												}
 											} while (!c);
-											
+
 											UserAccount userAccount = empdetailsImpl.getAllUserDetailsByAccount(accn);
 											log.info(userAccount);
 
 											break;
 										case 3:
-											int uid=0;
+											int uid = 0;
 											do {
 												c = true;
 												log.info("Please enter your registered userID");
@@ -259,7 +295,7 @@ public class IciciBankMain {
 													c = false;
 												}
 											} while (!c);
-											 userAccount = empdetailsImpl.getAllUserDetailsById(uid);
+											userAccount = empdetailsImpl.getAllUserDetailsById(uid);
 											log.info(userAccount);
 
 											break;
@@ -267,8 +303,8 @@ public class IciciBankMain {
 											do {
 												c = true;
 												log.info("Enter Account Number");
-											     accn = Long.parseLong(sc.nextLine());
-												
+												accn = Long.parseLong(sc.nextLine());
+
 												boolean z = empdetailsImpl.checkUserAccount(accn);
 
 												if (z == true) {
@@ -287,8 +323,8 @@ public class IciciBankMain {
 											do {
 												c = true;
 												log.info("Enter Account Number");
-											     accn = Long.parseLong(sc.nextLine());
-												
+												accn = Long.parseLong(sc.nextLine());
+
 												boolean z = empdetailsImpl.checkUserAccount(accn);
 
 												if (z == true) {
@@ -298,13 +334,13 @@ public class IciciBankMain {
 													c = false;
 												}
 											} while (!c);
-											
+
 											empdetailsImpl.deleteCustomerAccount(accn);
 											log.info("Customer Account Deleted... :(");
-											
+
 											break;
 										case 7:
-											
+
 											break;
 										default:
 											log.warn(
@@ -421,8 +457,8 @@ public class IciciBankMain {
 					boolean status = false;
 					name = user.getCustname();
 					long accno = 0;
-					UserAccount userAccount = new UserAccount(accno, name, user.getUserid(), pan, aadhar, city,
-							state, status, pincode, balance);
+					UserAccount userAccount = new UserAccount(accno, name, user.getUserid(), pan, aadhar, city, state,
+							status, pincode, balance);
 
 					String open = "opening deposited balance";
 					userAccount = userdetailsImpl.registerUserAccount(userAccount);

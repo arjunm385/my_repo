@@ -292,4 +292,76 @@ public class User_DetailsImpl implements User_Details {
 		
 		return null;
 	}
+
+	@Override
+	public String getUserNameByAccount(long account) throws BusinessException {
+		String name = null;
+		try (Connection connection = PostgresConnection.getConnection()) {
+			String sql = "select name from user_account where account=?";
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			preparedStatement.setLong(1,account);
+			ResultSet resultSet = preparedStatement.executeQuery();
+			if(resultSet.next()) {
+				name = resultSet.getString("name");
+			}
+		} catch (ClassNotFoundException e) {
+			e.getMessage();
+		} catch (SQLException e) {
+			e.getMessage();
+		}
+		return name;
+	}
+
+	@Override
+	public void moneyTransfer(float tr_amt, long acc, long tr_acc) throws BusinessException {
+		addTransfer(tr_amt, checkBalance(tr_acc), tr_acc,acc);
+		withdrawlTransfer(tr_amt, checkBalance(acc), acc, tr_acc);
+
+	}
+	
+	@Override
+	public void addTransfer(float amount, float prevamount, long account ,long prevacc) throws BusinessException {
+
+		String t_type=("credited by account no.: "+prevacc);
+		txnAdd(t_type, account, amount);
+		float tamt = amount+prevamount;
+		try (Connection connection = PostgresConnection.getConnection()) 
+		{
+			String sql = "update user_account set balance=? where account=?";
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			preparedStatement.setFloat(1, tamt);
+			preparedStatement.setLong(2, account);
+			preparedStatement.executeUpdate();
+		}
+		catch (ClassNotFoundException e) {
+			e.getMessage();
+		} catch (SQLException e) {
+			e.getMessage();
+		}
+		
+		
+	}
+	
+	@Override
+public void withdrawlTransfer(float amt, float pamt, long acc,long toacc) throws BusinessException {
+
+		
+		String t_type=("transfered to: "+toacc);
+		txnWithdraw(t_type, acc, amt);
+		float tamt = pamt-amt;
+		try (Connection connection = PostgresConnection.getConnection()) 
+		{
+			String sql = "update user_account set balance=? where account=?";
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			preparedStatement.setFloat(1, tamt);
+			preparedStatement.setLong(2, acc);
+			preparedStatement.executeUpdate();
+		}
+		catch (ClassNotFoundException e) {
+			e.getMessage();
+		} catch (SQLException e) {
+			e.getMessage();
+		}
+		
+	}
 }

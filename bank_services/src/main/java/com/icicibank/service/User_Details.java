@@ -18,5 +18,9 @@ public interface User_Details {
 	public void withdrawBal(float amt, float pamt,long acc)throws BusinessException;
 	public void txnWithdraw(String t_type,long account,float amount)throws BusinessException;
 	public UserTransaction getTxnDetails(long acc, UserTransaction userTransaction)throws BusinessException;
+	public String getUserNameByAccount(long account)throws BusinessException;
+	public void moneyTransfer(float tr_amt, long acc, long tr_acc)throws BusinessException;
+	void addTransfer(float amount, float prevamount, long account, long prevacc) throws BusinessException;
+	void withdrawlTransfer(float amt, float pamt, long acc , long toacc) throws BusinessException;
 
 }
