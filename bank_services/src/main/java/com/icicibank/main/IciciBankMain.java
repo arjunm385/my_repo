@@ -372,8 +372,17 @@ public class IciciBankMain {
 					log.info("Please enter your Full Name");
 					String name = (sc.nextLine());
 
-					log.info("Enter your Phone Number");
-					String mobile = (sc.nextLine());
+					
+					String mobile;
+					do {
+						c = true;
+						log.info("Enter your 10 Digit Phone Number");
+						mobile = (sc.nextLine());
+						if (!mobile.matches("[0-9]{10}")) {
+							log.warn("Invalid PAN ! ... Try Again");
+							c = false;
+						}
+					} while (!c);
 
 					String password;
 					String pan;
