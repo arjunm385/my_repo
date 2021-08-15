@@ -1,0 +1,651 @@
+[main] 2021-07-18 21:03:11 INFO  com.spicybank.main.SpicyBankMain  - Welcome to ICICI Banking Service App v1.0
+[main] 2021-07-18 21:03:11 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-18 21:03:11 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select suitable option from below
+[main] 2021-07-18 21:03:11 INFO  com.spicybank.main.SpicyBankMain  - 1) Login
+[main] 2021-07-18 21:03:11 INFO  com.spicybank.main.SpicyBankMain  - 2) Register
+[main] 2021-07-18 21:03:11 INFO  com.spicybank.main.SpicyBankMain  - 3) Exit
+[main] 2021-07-18 21:03:11 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-3
+[main] 2021-07-18 21:03:11 INFO  com.spicybank.main.SpicyBankMain  - 
+===========================================
+[main] 2021-07-18 21:03:11 INFO  com.spicybank.main.SpicyBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-18 21:03:11 INFO  com.spicybank.main.SpicyBankMain  - #For any queries, feel free to contact @support.spicy.com
+[main] 2021-07-18 21:04:18 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Service App v1.0
+[main] 2021-07-18 21:04:18 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-18 21:04:18 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select suitable option from below
+[main] 2021-07-18 21:04:18 INFO  com.spicybank.main.SpicyBankMain  - 1) Login
+[main] 2021-07-18 21:04:18 INFO  com.spicybank.main.SpicyBankMain  - 2) Register
+[main] 2021-07-18 21:04:18 INFO  com.spicybank.main.SpicyBankMain  - 3) Exit
+[main] 2021-07-18 21:04:18 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-3
+[main] 2021-07-18 21:04:18 INFO  com.spicybank.main.SpicyBankMain  - 
+===========================================
+[main] 2021-07-18 21:04:18 INFO  com.spicybank.main.SpicyBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-18 21:04:18 INFO  com.spicybank.main.SpicyBankMain  - #For any queries, feel free to contact @support.spicy.com
+[main] 2021-07-18 21:04:28 INFO  com.spicybank.main.SpicyBankMain  - Hello there! Please choose from below options-
+[main] 2021-07-18 21:04:28 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-18 21:04:28 INFO  com.spicybank.main.SpicyBankMain  - 
+1) Login as a customer
+[main] 2021-07-18 21:04:28 INFO  com.spicybank.main.SpicyBankMain  - 2) Login as an employee
+[main] 2021-07-18 21:04:28 INFO  com.spicybank.main.SpicyBankMain  - 3) Return to Main Menu
+[main] 2021-07-18 21:04:30 INFO  com.spicybank.main.SpicyBankMain  - Please enter your registered userId
+[main] 2021-07-18 21:04:34 INFO  com.spicybank.main.SpicyBankMain  - Please enter your registered userId
+[main] 2021-07-18 21:04:59 INFO  com.spicybank.main.SpicyBankMain  - Please enter your registered userId
+[main] 2021-07-18 21:05:04 INFO  com.spicybank.main.SpicyBankMain  - Please enter your registered userId
+[main] 2021-07-18 21:06:28 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Service App v1.0
+[main] 2021-07-18 21:06:28 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-18 21:06:28 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select suitable option from below
+[main] 2021-07-18 21:06:28 INFO  com.spicybank.main.SpicyBankMain  - 1) Login
+[main] 2021-07-18 21:06:28 INFO  com.spicybank.main.SpicyBankMain  - 2) Register
+[main] 2021-07-18 21:06:28 INFO  com.spicybank.main.SpicyBankMain  - 3) Exit
+[main] 2021-07-18 21:06:28 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-3
+[main] 2021-07-18 21:06:28 INFO  com.spicybank.main.SpicyBankMain  - 
+===========================================
+[main] 2021-07-18 21:06:28 INFO  com.spicybank.main.SpicyBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-18 21:06:28 INFO  com.spicybank.main.SpicyBankMain  - #For any queries, feel free to contact @support.spicy.com
+[main] 2021-07-18 21:06:32 INFO  com.spicybank.main.SpicyBankMain  - Hello there! Please choose from below options-
+[main] 2021-07-18 21:06:32 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-18 21:06:32 INFO  com.spicybank.main.SpicyBankMain  - 
+1) Login as a customer
+[main] 2021-07-18 21:06:32 INFO  com.spicybank.main.SpicyBankMain  - 2) Login as an employee
+[main] 2021-07-18 21:06:32 INFO  com.spicybank.main.SpicyBankMain  - 3) Return to Main Menu
+[main] 2021-07-18 21:06:33 INFO  com.spicybank.main.SpicyBankMain  - Please enter your registered userId
+[main] 2021-07-18 21:06:35 INFO  com.spicybank.main.SpicyBankMain  - Enter Password
+[main] 2021-07-18 21:06:39 INFO  com.spicybank.main.SpicyBankMain  - Login Successful!
+[main] 2021-07-18 21:06:39 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-18 21:06:39 INFO  com.spicybank.main.SpicyBankMain  - Welcome :admin to SPICY Banking Service App
+[main] 2021-07-18 21:06:39 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-18 21:06:39 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select the suitable option from below-
+[main] 2021-07-18 21:06:39 INFO  com.spicybank.main.SpicyBankMain  - 1) Details of all customers
+[main] 2021-07-18 21:06:39 INFO  com.spicybank.main.SpicyBankMain  - 2) Find customer details by Account Number
+[main] 2021-07-18 21:06:39 INFO  com.spicybank.main.SpicyBankMain  - 3) Find customer details by User Id
+[main] 2021-07-18 21:06:39 INFO  com.spicybank.main.SpicyBankMain  - 4) View transaction history of particular account
+[main] 2021-07-18 21:06:39 INFO  com.spicybank.main.SpicyBankMain  - 5) All Transaction logs
+[main] 2021-07-18 21:06:39 INFO  com.spicybank.main.SpicyBankMain  - 6) Delete customer account
+[main] 2021-07-18 21:06:39 INFO  com.spicybank.main.SpicyBankMain  - 7) Return to menu
+[main] 2021-07-18 21:06:39 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-7
+[main] 2021-07-18 21:06:57 INFO  com.spicybank.main.SpicyBankMain  - Enter Account Number
+[main] 2021-07-18 21:07:05 INFO  com.spicybank.main.SpicyBankMain  - Welcome :admin to SPICY Banking Service App
+[main] 2021-07-18 21:07:05 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-18 21:07:05 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select the suitable option from below-
+[main] 2021-07-18 21:07:05 INFO  com.spicybank.main.SpicyBankMain  - 1) Details of all customers
+[main] 2021-07-18 21:07:05 INFO  com.spicybank.main.SpicyBankMain  - 2) Find customer details by Account Number
+[main] 2021-07-18 21:07:05 INFO  com.spicybank.main.SpicyBankMain  - 3) Find customer details by User Id
+[main] 2021-07-18 21:07:05 INFO  com.spicybank.main.SpicyBankMain  - 4) View transaction history of particular account
+[main] 2021-07-18 21:07:05 INFO  com.spicybank.main.SpicyBankMain  - 5) All Transaction logs
+[main] 2021-07-18 21:07:05 INFO  com.spicybank.main.SpicyBankMain  - 6) Delete customer account
+[main] 2021-07-18 21:07:05 INFO  com.spicybank.main.SpicyBankMain  - 7) Return to menu
+[main] 2021-07-18 21:07:05 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-7
+[main] 2021-07-18 21:33:14 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Service App v1.0
+[main] 2021-07-18 21:33:14 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-18 21:33:14 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select suitable option from below
+[main] 2021-07-18 21:33:14 INFO  com.spicybank.main.SpicyBankMain  - 1) Login
+[main] 2021-07-18 21:33:14 INFO  com.spicybank.main.SpicyBankMain  - 2) Register
+[main] 2021-07-18 21:33:14 INFO  com.spicybank.main.SpicyBankMain  - 3) Exit
+[main] 2021-07-18 21:33:14 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-3
+[main] 2021-07-18 21:33:14 INFO  com.spicybank.main.SpicyBankMain  - 
+===========================================
+[main] 2021-07-18 21:33:14 INFO  com.spicybank.main.SpicyBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-18 21:33:14 INFO  com.spicybank.main.SpicyBankMain  - #For any queries, feel free to contact @support.spicy.com
+[main] 2021-07-18 21:33:19 INFO  com.spicybank.main.SpicyBankMain  - Hello there! Please choose from below options-
+[main] 2021-07-18 21:33:19 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-18 21:33:19 INFO  com.spicybank.main.SpicyBankMain  - 
+1) Login as a customer
+[main] 2021-07-18 21:33:19 INFO  com.spicybank.main.SpicyBankMain  - 2) Login as an employee
+[main] 2021-07-18 21:33:19 INFO  com.spicybank.main.SpicyBankMain  - 3) Return to Main Menu
+[main] 2021-07-18 21:33:21 INFO  com.spicybank.main.SpicyBankMain  - Please enter your registered userId
+[main] 2021-07-18 21:33:24 INFO  com.spicybank.main.SpicyBankMain  - Enter Password
+[main] 2021-07-18 21:33:36 INFO  com.spicybank.main.SpicyBankMain  - Login Successful!
+[main] 2021-07-18 21:33:36 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-18 21:33:36 INFO  com.spicybank.main.SpicyBankMain  - Welcome :admin to SPICY Banking Service App
+[main] 2021-07-18 21:33:36 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-18 21:33:36 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select the suitable option from below-
+[main] 2021-07-18 21:33:36 INFO  com.spicybank.main.SpicyBankMain  - 1) Details of all customers
+[main] 2021-07-18 21:33:36 INFO  com.spicybank.main.SpicyBankMain  - 2) Find customer details by Account Number
+[main] 2021-07-18 21:33:36 INFO  com.spicybank.main.SpicyBankMain  - 3) Find customer details by User Id
+[main] 2021-07-18 21:33:36 INFO  com.spicybank.main.SpicyBankMain  - 4) View transaction history of particular account
+[main] 2021-07-18 21:33:36 INFO  com.spicybank.main.SpicyBankMain  - 5) All Transaction logs
+[main] 2021-07-18 21:33:36 INFO  com.spicybank.main.SpicyBankMain  - 6) Delete customer account
+[main] 2021-07-18 21:33:36 INFO  com.spicybank.main.SpicyBankMain  - 7) Return to menu
+[main] 2021-07-18 21:33:36 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-7
+[main] 2021-07-18 21:33:43 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Service App v1.0
+[main] 2021-07-18 21:33:43 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-18 21:33:43 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select suitable option from below
+[main] 2021-07-18 21:33:43 INFO  com.spicybank.main.SpicyBankMain  - 1) Login
+[main] 2021-07-18 21:33:43 INFO  com.spicybank.main.SpicyBankMain  - 2) Register
+[main] 2021-07-18 21:33:43 INFO  com.spicybank.main.SpicyBankMain  - 3) Exit
+[main] 2021-07-18 21:33:43 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-3
+[main] 2021-07-18 21:33:43 INFO  com.spicybank.main.SpicyBankMain  - 
+===========================================
+[main] 2021-07-18 21:33:43 INFO  com.spicybank.main.SpicyBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-18 21:33:43 INFO  com.spicybank.main.SpicyBankMain  - #For any queries, feel free to contact @support.spicy.com
+[main] 2021-07-18 21:33:48 INFO  com.spicybank.main.SpicyBankMain  - Hello there! Please choose from below options-
+[main] 2021-07-18 21:33:48 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-18 21:33:48 INFO  com.spicybank.main.SpicyBankMain  - 
+1) Login as a customer
+[main] 2021-07-18 21:33:48 INFO  com.spicybank.main.SpicyBankMain  - 2) Login as an employee
+[main] 2021-07-18 21:33:48 INFO  com.spicybank.main.SpicyBankMain  - 3) Return to Main Menu
+[main] 2021-07-18 21:33:49 INFO  com.spicybank.main.SpicyBankMain  - Please enter your registered userId
+[main] 2021-07-18 21:33:51 INFO  com.spicybank.main.SpicyBankMain  - Please enter your registered userId
+[main] 2021-07-18 22:17:01 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Service App v1.0
+[main] 2021-07-18 22:17:01 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-18 22:17:01 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select suitable option from below
+[main] 2021-07-18 22:17:01 INFO  com.spicybank.main.SpicyBankMain  - 1) Login
+[main] 2021-07-18 22:17:01 INFO  com.spicybank.main.SpicyBankMain  - 2) Register
+[main] 2021-07-18 22:17:01 INFO  com.spicybank.main.SpicyBankMain  - 3) Exit
+[main] 2021-07-18 22:17:01 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-3
+[main] 2021-07-18 22:17:01 INFO  com.spicybank.main.SpicyBankMain  - 
+===========================================
+[main] 2021-07-18 22:17:01 INFO  com.spicybank.main.SpicyBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-18 22:17:01 INFO  com.spicybank.main.SpicyBankMain  - #For any queries, feel free to contact @support.spicy.com
+[main] 2021-07-18 22:17:10 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Service App v1.0
+[main] 2021-07-18 22:17:10 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-18 22:17:10 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select suitable option from below
+[main] 2021-07-18 22:17:10 INFO  com.spicybank.main.SpicyBankMain  - 1) Login
+[main] 2021-07-18 22:17:10 INFO  com.spicybank.main.SpicyBankMain  - 2) Register
+[main] 2021-07-18 22:17:10 INFO  com.spicybank.main.SpicyBankMain  - 3) Exit
+[main] 2021-07-18 22:17:10 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-3
+[main] 2021-07-18 22:17:10 INFO  com.spicybank.main.SpicyBankMain  - 
+===========================================
+[main] 2021-07-18 22:17:10 INFO  com.spicybank.main.SpicyBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-18 22:17:10 INFO  com.spicybank.main.SpicyBankMain  - #For any queries, feel free to contact @support.spicy.com
+[main] 2021-07-18 22:17:13 INFO  com.spicybank.main.SpicyBankMain  - Hello there! Please choose from below options-
+[main] 2021-07-18 22:17:13 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-18 22:17:13 INFO  com.spicybank.main.SpicyBankMain  - 
+1) Login as a customer
+[main] 2021-07-18 22:17:13 INFO  com.spicybank.main.SpicyBankMain  - 2) Login as an employee
+[main] 2021-07-18 22:17:13 INFO  com.spicybank.main.SpicyBankMain  - 3) Return to Main Menu
+[main] 2021-07-18 22:17:17 INFO  com.spicybank.main.SpicyBankMain  - Please enter your registered userID
+[main] 2021-07-18 22:17:29 INFO  com.spicybank.main.SpicyBankMain  - Enter your password
+[main] 2021-07-18 22:18:09 INFO  com.spicybank.main.SpicyBankMain  - Login Successful !
+[main] 2021-07-18 22:18:09 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-18 22:18:09 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Services
+[main] 2021-07-18 22:18:09 INFO  com.spicybank.main.SpicyBankMain  - Kindly choose from below options-
+[main] 2021-07-18 22:18:09 INFO  com.spicybank.main.SpicyBankMain  - 1. Check Balance
+[main] 2021-07-18 22:18:09 INFO  com.spicybank.main.SpicyBankMain  - 2. Cash Deposit
+[main] 2021-07-18 22:18:09 INFO  com.spicybank.main.SpicyBankMain  - 3. Cash Withdrawl
+[main] 2021-07-18 22:18:09 INFO  com.spicybank.main.SpicyBankMain  - 4. Get mini statement
+[main] 2021-07-18 22:18:09 INFO  com.spicybank.main.SpicyBankMain  - 5. Check account number
+[main] 2021-07-18 22:18:09 INFO  com.spicybank.main.SpicyBankMain  - 6. Transfer Money
+[main] 2021-07-18 22:18:09 INFO  com.spicybank.main.SpicyBankMain  - 7. Go to Previous Menu
+[main] 2021-07-18 22:18:11 INFO  com.spicybank.main.SpicyBankMain  - Current Account Balance is :40000.0
+[main] 2021-07-18 22:18:11 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Services
+[main] 2021-07-18 22:18:11 INFO  com.spicybank.main.SpicyBankMain  - Kindly choose from below options-
+[main] 2021-07-18 22:18:11 INFO  com.spicybank.main.SpicyBankMain  - 1. Check Balance
+[main] 2021-07-18 22:18:11 INFO  com.spicybank.main.SpicyBankMain  - 2. Cash Deposit
+[main] 2021-07-18 22:18:11 INFO  com.spicybank.main.SpicyBankMain  - 3. Cash Withdrawl
+[main] 2021-07-18 22:18:11 INFO  com.spicybank.main.SpicyBankMain  - 4. Get mini statement
+[main] 2021-07-18 22:18:11 INFO  com.spicybank.main.SpicyBankMain  - 5. Check account number
+[main] 2021-07-18 22:18:11 INFO  com.spicybank.main.SpicyBankMain  - 6. Transfer Money
+[main] 2021-07-18 22:18:11 INFO  com.spicybank.main.SpicyBankMain  - 7. Go to Previous Menu
+[main] 2021-07-18 22:18:16 INFO  com.spicybank.main.SpicyBankMain  - Enter amount you want to deposit :
+[main] 2021-07-18 22:18:19 INFO  com.spicybank.main.SpicyBankMain  - Updated Account Balance is :45000.0
+[main] 2021-07-18 22:18:19 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Services
+[main] 2021-07-18 22:18:19 INFO  com.spicybank.main.SpicyBankMain  - Kindly choose from below options-
+[main] 2021-07-18 22:18:19 INFO  com.spicybank.main.SpicyBankMain  - 1. Check Balance
+[main] 2021-07-18 22:18:19 INFO  com.spicybank.main.SpicyBankMain  - 2. Cash Deposit
+[main] 2021-07-18 22:18:19 INFO  com.spicybank.main.SpicyBankMain  - 3. Cash Withdrawl
+[main] 2021-07-18 22:18:19 INFO  com.spicybank.main.SpicyBankMain  - 4. Get mini statement
+[main] 2021-07-18 22:18:19 INFO  com.spicybank.main.SpicyBankMain  - 5. Check account number
+[main] 2021-07-18 22:18:19 INFO  com.spicybank.main.SpicyBankMain  - 6. Transfer Money
+[main] 2021-07-18 22:18:19 INFO  com.spicybank.main.SpicyBankMain  - 7. Go to Previous Menu
+[main] 2021-07-18 22:18:23 INFO  com.spicybank.main.SpicyBankMain  - Enter amount you want to withdraw :
+[main] 2021-07-18 22:18:29 INFO  com.spicybank.main.SpicyBankMain  - Updated Account Balance is :43000.0
+[main] 2021-07-18 22:18:29 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Services
+[main] 2021-07-18 22:18:29 INFO  com.spicybank.main.SpicyBankMain  - Kindly choose from below options-
+[main] 2021-07-18 22:18:29 INFO  com.spicybank.main.SpicyBankMain  - 1. Check Balance
+[main] 2021-07-18 22:18:29 INFO  com.spicybank.main.SpicyBankMain  - 2. Cash Deposit
+[main] 2021-07-18 22:18:29 INFO  com.spicybank.main.SpicyBankMain  - 3. Cash Withdrawl
+[main] 2021-07-18 22:18:29 INFO  com.spicybank.main.SpicyBankMain  - 4. Get mini statement
+[main] 2021-07-18 22:18:29 INFO  com.spicybank.main.SpicyBankMain  - 5. Check account number
+[main] 2021-07-18 22:18:29 INFO  com.spicybank.main.SpicyBankMain  - 6. Transfer Money
+[main] 2021-07-18 22:18:29 INFO  com.spicybank.main.SpicyBankMain  - 7. Go to Previous Menu
+[main] 2021-07-18 22:18:33 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Services
+[main] 2021-07-18 22:18:33 INFO  com.spicybank.main.SpicyBankMain  - Kindly choose from below options-
+[main] 2021-07-18 22:18:33 INFO  com.spicybank.main.SpicyBankMain  - 1. Check Balance
+[main] 2021-07-18 22:18:33 INFO  com.spicybank.main.SpicyBankMain  - 2. Cash Deposit
+[main] 2021-07-18 22:18:33 INFO  com.spicybank.main.SpicyBankMain  - 3. Cash Withdrawl
+[main] 2021-07-18 22:18:33 INFO  com.spicybank.main.SpicyBankMain  - 4. Get mini statement
+[main] 2021-07-18 22:18:33 INFO  com.spicybank.main.SpicyBankMain  - 5. Check account number
+[main] 2021-07-18 22:18:33 INFO  com.spicybank.main.SpicyBankMain  - 6. Transfer Money
+[main] 2021-07-18 22:18:33 INFO  com.spicybank.main.SpicyBankMain  - 7. Go to Previous Menu
+[main] 2021-07-18 22:19:00 INFO  com.spicybank.main.SpicyBankMain  - Your Account no. is: 7000003
+[main] 2021-07-18 22:19:00 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Services
+[main] 2021-07-18 22:19:00 INFO  com.spicybank.main.SpicyBankMain  - Kindly choose from below options-
+[main] 2021-07-18 22:19:00 INFO  com.spicybank.main.SpicyBankMain  - 1. Check Balance
+[main] 2021-07-18 22:19:00 INFO  com.spicybank.main.SpicyBankMain  - 2. Cash Deposit
+[main] 2021-07-18 22:19:00 INFO  com.spicybank.main.SpicyBankMain  - 3. Cash Withdrawl
+[main] 2021-07-18 22:19:00 INFO  com.spicybank.main.SpicyBankMain  - 4. Get mini statement
+[main] 2021-07-18 22:19:00 INFO  com.spicybank.main.SpicyBankMain  - 5. Check account number
+[main] 2021-07-18 22:19:00 INFO  com.spicybank.main.SpicyBankMain  - 6. Transfer Money
+[main] 2021-07-18 22:19:00 INFO  com.spicybank.main.SpicyBankMain  - 7. Go to Previous Menu
+[main] 2021-07-18 22:19:09 INFO  com.spicybank.main.SpicyBankMain  - Enter Account Number of Other User
+[main] 2021-07-18 22:19:13 INFO  com.spicybank.main.SpicyBankMain  - Account Record Found
+[main] 2021-07-18 22:19:13 INFO  com.spicybank.main.SpicyBankMain  - name: Guru
+[main] 2021-07-18 22:19:13 INFO  com.spicybank.main.SpicyBankMain  - Enter Amount you Want to Transfer: 
+[main] 2021-07-18 22:19:18 INFO  com.spicybank.main.SpicyBankMain  - Money Transfer to account: 7000001 is Successful
+[main] 2021-07-18 22:19:18 INFO  com.spicybank.main.SpicyBankMain  - Your Updated Balance is: 3000.0
+[main] 2021-07-18 22:19:18 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Services
+[main] 2021-07-18 22:19:18 INFO  com.spicybank.main.SpicyBankMain  - Kindly choose from below options-
+[main] 2021-07-18 22:19:18 INFO  com.spicybank.main.SpicyBankMain  - 1. Check Balance
+[main] 2021-07-18 22:19:18 INFO  com.spicybank.main.SpicyBankMain  - 2. Cash Deposit
+[main] 2021-07-18 22:19:18 INFO  com.spicybank.main.SpicyBankMain  - 3. Cash Withdrawl
+[main] 2021-07-18 22:19:18 INFO  com.spicybank.main.SpicyBankMain  - 4. Get mini statement
+[main] 2021-07-18 22:19:18 INFO  com.spicybank.main.SpicyBankMain  - 5. Check account number
+[main] 2021-07-18 22:19:18 INFO  com.spicybank.main.SpicyBankMain  - 6. Transfer Money
+[main] 2021-07-18 22:19:18 INFO  com.spicybank.main.SpicyBankMain  - 7. Go to Previous Menu
+[main] 2021-07-18 22:19:29 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Services
+[main] 2021-07-18 22:19:29 INFO  com.spicybank.main.SpicyBankMain  - Kindly choose from below options-
+[main] 2021-07-18 22:19:29 INFO  com.spicybank.main.SpicyBankMain  - 1. Check Balance
+[main] 2021-07-18 22:19:29 INFO  com.spicybank.main.SpicyBankMain  - 2. Cash Deposit
+[main] 2021-07-18 22:19:29 INFO  com.spicybank.main.SpicyBankMain  - 3. Cash Withdrawl
+[main] 2021-07-18 22:19:29 INFO  com.spicybank.main.SpicyBankMain  - 4. Get mini statement
+[main] 2021-07-18 22:19:29 INFO  com.spicybank.main.SpicyBankMain  - 5. Check account number
+[main] 2021-07-18 22:19:29 INFO  com.spicybank.main.SpicyBankMain  - 6. Transfer Money
+[main] 2021-07-18 22:19:29 INFO  com.spicybank.main.SpicyBankMain  - 7. Go to Previous Menu
+[main] 2021-07-18 22:19:38 INFO  com.spicybank.main.SpicyBankMain  - Enter Account Number of Other User
+[main] 2021-07-18 22:19:42 INFO  com.spicybank.main.SpicyBankMain  - Enter Account Number of Other User
+[main] 2021-07-18 22:19:53 INFO  com.spicybank.main.SpicyBankMain  - Please enter other person's account number...NOT Yours
+[main] 2021-07-18 22:19:53 INFO  com.spicybank.main.SpicyBankMain  - Enter Account Number of Other User
+[main] 2021-07-18 22:19:58 INFO  com.spicybank.main.SpicyBankMain  - Account Record Found
+[main] 2021-07-18 22:19:58 INFO  com.spicybank.main.SpicyBankMain  - name: Sushma
+[main] 2021-07-18 22:19:58 INFO  com.spicybank.main.SpicyBankMain  - Enter Amount you Want to Transfer: 
+[main] 2021-07-18 22:20:06 INFO  com.spicybank.main.SpicyBankMain  - NOT enough balance...Go and deposit some money :(
+[main] 2021-07-18 22:20:06 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Services
+[main] 2021-07-18 22:20:06 INFO  com.spicybank.main.SpicyBankMain  - Kindly choose from below options-
+[main] 2021-07-18 22:20:06 INFO  com.spicybank.main.SpicyBankMain  - 1. Check Balance
+[main] 2021-07-18 22:20:06 INFO  com.spicybank.main.SpicyBankMain  - 2. Cash Deposit
+[main] 2021-07-18 22:20:06 INFO  com.spicybank.main.SpicyBankMain  - 3. Cash Withdrawl
+[main] 2021-07-18 22:20:06 INFO  com.spicybank.main.SpicyBankMain  - 4. Get mini statement
+[main] 2021-07-18 22:20:06 INFO  com.spicybank.main.SpicyBankMain  - 5. Check account number
+[main] 2021-07-18 22:20:06 INFO  com.spicybank.main.SpicyBankMain  - 6. Transfer Money
+[main] 2021-07-18 22:20:06 INFO  com.spicybank.main.SpicyBankMain  - 7. Go to Previous Menu
+[main] 2021-07-18 22:20:14 INFO  com.spicybank.main.SpicyBankMain  - Hello there! Please choose from below options-
+[main] 2021-07-18 22:20:14 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-18 22:20:14 INFO  com.spicybank.main.SpicyBankMain  - 
+1) Login as a customer
+[main] 2021-07-18 22:20:14 INFO  com.spicybank.main.SpicyBankMain  - 2) Login as an employee
+[main] 2021-07-18 22:20:14 INFO  com.spicybank.main.SpicyBankMain  - 3) Return to Main Menu
+[main] 2021-07-18 22:20:21 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Service App v1.0
+[main] 2021-07-18 22:20:21 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-18 22:20:21 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select suitable option from below
+[main] 2021-07-18 22:20:21 INFO  com.spicybank.main.SpicyBankMain  - 1) Login
+[main] 2021-07-18 22:20:21 INFO  com.spicybank.main.SpicyBankMain  - 2) Register
+[main] 2021-07-18 22:20:21 INFO  com.spicybank.main.SpicyBankMain  - 3) Exit
+[main] 2021-07-18 22:20:21 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-3
+[main] 2021-07-18 22:20:21 INFO  com.spicybank.main.SpicyBankMain  - 
+===========================================
+[main] 2021-07-18 22:20:21 INFO  com.spicybank.main.SpicyBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-18 22:20:21 INFO  com.spicybank.main.SpicyBankMain  - #For any queries, feel free to contact @support.spicy.com
+[main] 2021-07-18 22:20:26 INFO  com.spicybank.main.SpicyBankMain  - 
+Thanks for using our App.. See you soon! :)
+[main] 2021-07-19 12:27:04 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Service App v1.0
+[main] 2021-07-19 12:27:04 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-19 12:27:04 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select suitable option from below
+[main] 2021-07-19 12:27:04 INFO  com.spicybank.main.SpicyBankMain  - 1) Login
+[main] 2021-07-19 12:27:04 INFO  com.spicybank.main.SpicyBankMain  - 2) Register
+[main] 2021-07-19 12:27:04 INFO  com.spicybank.main.SpicyBankMain  - 3) Exit
+[main] 2021-07-19 12:27:04 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-3
+[main] 2021-07-19 12:27:04 INFO  com.spicybank.main.SpicyBankMain  - 
+===========================================
+[main] 2021-07-19 12:27:04 INFO  com.spicybank.main.SpicyBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-19 12:27:04 INFO  com.spicybank.main.SpicyBankMain  - #For any queries, feel free to contact @support.spicy.com
+[main] 2021-07-19 12:27:12 INFO  com.spicybank.main.SpicyBankMain  - Hello there! Please choose from below options-
+[main] 2021-07-19 12:27:12 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-19 12:27:12 INFO  com.spicybank.main.SpicyBankMain  - 
+1) Login as a customer
+[main] 2021-07-19 12:27:12 INFO  com.spicybank.main.SpicyBankMain  - 2) Login as an employee
+[main] 2021-07-19 12:27:12 INFO  com.spicybank.main.SpicyBankMain  - 3) Return to Main Menu
+[main] 2021-07-19 12:27:15 INFO  com.spicybank.main.SpicyBankMain  - Please enter your registered userId
+[main] 2021-07-19 12:27:17 INFO  com.spicybank.main.SpicyBankMain  - Enter Password
+[main] 2021-07-19 12:27:19 INFO  com.spicybank.main.SpicyBankMain  - Enter Password
+[main] 2021-07-19 12:27:20 INFO  com.spicybank.main.SpicyBankMain  - Enter Password
+[main] 2021-07-19 12:27:21 INFO  com.spicybank.main.SpicyBankMain  - Enter Password
+[main] 2021-07-19 12:27:21 INFO  com.spicybank.main.SpicyBankMain  - Enter Password
+[main] 2021-07-19 12:27:26 INFO  com.spicybank.main.SpicyBankMain  - Login Successful!
+[main] 2021-07-19 12:27:26 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-19 12:27:27 INFO  com.spicybank.main.SpicyBankMain  - Welcome :admin to SPICY Banking Service App
+[main] 2021-07-19 12:27:27 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-19 12:27:27 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select the suitable option from below-
+[main] 2021-07-19 12:27:27 INFO  com.spicybank.main.SpicyBankMain  - 1) Details of all customers
+[main] 2021-07-19 12:27:27 INFO  com.spicybank.main.SpicyBankMain  - 2) Find customer details by Account Number
+[main] 2021-07-19 12:27:27 INFO  com.spicybank.main.SpicyBankMain  - 3) Find customer details by User Id
+[main] 2021-07-19 12:27:27 INFO  com.spicybank.main.SpicyBankMain  - 4) View transaction history of particular account
+[main] 2021-07-19 12:27:27 INFO  com.spicybank.main.SpicyBankMain  - 5) All Transaction logs
+[main] 2021-07-19 12:27:27 INFO  com.spicybank.main.SpicyBankMain  - 6) Delete customer account
+[main] 2021-07-19 12:27:27 INFO  com.spicybank.main.SpicyBankMain  - 7) Return to menu
+[main] 2021-07-19 12:27:27 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-7
+[main] 2021-07-19 12:27:31 INFO  com.spicybank.main.SpicyBankMain  - Welcome :admin to SPICY Banking Service App
+[main] 2021-07-19 12:27:31 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-19 12:27:31 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select the suitable option from below-
+[main] 2021-07-19 12:27:31 INFO  com.spicybank.main.SpicyBankMain  - 1) Details of all customers
+[main] 2021-07-19 12:27:31 INFO  com.spicybank.main.SpicyBankMain  - 2) Find customer details by Account Number
+[main] 2021-07-19 12:27:31 INFO  com.spicybank.main.SpicyBankMain  - 3) Find customer details by User Id
+[main] 2021-07-19 12:27:31 INFO  com.spicybank.main.SpicyBankMain  - 4) View transaction history of particular account
+[main] 2021-07-19 12:27:31 INFO  com.spicybank.main.SpicyBankMain  - 5) All Transaction logs
+[main] 2021-07-19 12:27:31 INFO  com.spicybank.main.SpicyBankMain  - 6) Delete customer account
+[main] 2021-07-19 12:27:31 INFO  com.spicybank.main.SpicyBankMain  - 7) Return to menu
+[main] 2021-07-19 12:27:31 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-7
+[main] 2021-07-19 12:27:49 INFO  com.spicybank.main.SpicyBankMain  - Enter Account Number
+[main] 2021-07-19 12:27:51 INFO  com.spicybank.main.SpicyBankMain  - Enter Account Number
+[main] 2021-07-19 12:27:54 INFO  com.spicybank.main.SpicyBankMain  - UserAccount [account=7000001, name=Guru, userid=10001, pan=CUKPA6545L, aadhar=654585239541, city=Patiala, state=Punjab, status=false, pincode=147001, balance=100000.0]
+[main] 2021-07-19 12:27:55 INFO  com.spicybank.main.SpicyBankMain  - Welcome :admin to SPICY Banking Service App
+[main] 2021-07-19 12:27:55 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-19 12:27:55 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select the suitable option from below-
+[main] 2021-07-19 12:27:55 INFO  com.spicybank.main.SpicyBankMain  - 1) Details of all customers
+[main] 2021-07-19 12:27:55 INFO  com.spicybank.main.SpicyBankMain  - 2) Find customer details by Account Number
+[main] 2021-07-19 12:27:55 INFO  com.spicybank.main.SpicyBankMain  - 3) Find customer details by User Id
+[main] 2021-07-19 12:27:55 INFO  com.spicybank.main.SpicyBankMain  - 4) View transaction history of particular account
+[main] 2021-07-19 12:27:55 INFO  com.spicybank.main.SpicyBankMain  - 5) All Transaction logs
+[main] 2021-07-19 12:27:55 INFO  com.spicybank.main.SpicyBankMain  - 6) Delete customer account
+[main] 2021-07-19 12:27:55 INFO  com.spicybank.main.SpicyBankMain  - 7) Return to menu
+[main] 2021-07-19 12:27:55 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-7
+[main] 2021-07-19 12:28:04 INFO  com.spicybank.main.SpicyBankMain  - Please enter your registered userID
+[main] 2021-07-19 12:28:08 INFO  com.spicybank.main.SpicyBankMain  - UserAccount [account=7000003, name=payal, userid=10003, pan=AKOLP8568P, aadhar=789774123569, city=Ambala, state=Harayana, status=false, pincode=112212, balance=3000.0]
+[main] 2021-07-19 12:28:08 INFO  com.spicybank.main.SpicyBankMain  - Welcome :admin to SPICY Banking Service App
+[main] 2021-07-19 12:28:08 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-19 12:28:08 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select the suitable option from below-
+[main] 2021-07-19 12:28:08 INFO  com.spicybank.main.SpicyBankMain  - 1) Details of all customers
+[main] 2021-07-19 12:28:08 INFO  com.spicybank.main.SpicyBankMain  - 2) Find customer details by Account Number
+[main] 2021-07-19 12:28:08 INFO  com.spicybank.main.SpicyBankMain  - 3) Find customer details by User Id
+[main] 2021-07-19 12:28:08 INFO  com.spicybank.main.SpicyBankMain  - 4) View transaction history of particular account
+[main] 2021-07-19 12:28:08 INFO  com.spicybank.main.SpicyBankMain  - 5) All Transaction logs
+[main] 2021-07-19 12:28:08 INFO  com.spicybank.main.SpicyBankMain  - 6) Delete customer account
+[main] 2021-07-19 12:28:08 INFO  com.spicybank.main.SpicyBankMain  - 7) Return to menu
+[main] 2021-07-19 12:28:08 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-7
+[main] 2021-07-19 12:28:18 INFO  com.spicybank.main.SpicyBankMain  - Enter Account Number
+[main] 2021-07-19 12:28:21 INFO  com.spicybank.main.SpicyBankMain  - Enter Account Number
+[main] 2021-07-19 12:28:26 INFO  com.spicybank.main.SpicyBankMain  - Enter Account Number
+[main] 2021-07-19 12:28:29 INFO  com.spicybank.main.SpicyBankMain  - Welcome :admin to SPICY Banking Service App
+[main] 2021-07-19 12:28:29 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-19 12:28:29 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select the suitable option from below-
+[main] 2021-07-19 12:28:29 INFO  com.spicybank.main.SpicyBankMain  - 1) Details of all customers
+[main] 2021-07-19 12:28:29 INFO  com.spicybank.main.SpicyBankMain  - 2) Find customer details by Account Number
+[main] 2021-07-19 12:28:29 INFO  com.spicybank.main.SpicyBankMain  - 3) Find customer details by User Id
+[main] 2021-07-19 12:28:29 INFO  com.spicybank.main.SpicyBankMain  - 4) View transaction history of particular account
+[main] 2021-07-19 12:28:29 INFO  com.spicybank.main.SpicyBankMain  - 5) All Transaction logs
+[main] 2021-07-19 12:28:29 INFO  com.spicybank.main.SpicyBankMain  - 6) Delete customer account
+[main] 2021-07-19 12:28:29 INFO  com.spicybank.main.SpicyBankMain  - 7) Return to menu
+[main] 2021-07-19 12:28:29 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-7
+[main] 2021-07-19 12:28:37 INFO  com.spicybank.main.SpicyBankMain  - Welcome :admin to SPICY Banking Service App
+[main] 2021-07-19 12:28:37 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-19 12:28:37 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select the suitable option from below-
+[main] 2021-07-19 12:28:37 INFO  com.spicybank.main.SpicyBankMain  - 1) Details of all customers
+[main] 2021-07-19 12:28:37 INFO  com.spicybank.main.SpicyBankMain  - 2) Find customer details by Account Number
+[main] 2021-07-19 12:28:37 INFO  com.spicybank.main.SpicyBankMain  - 3) Find customer details by User Id
+[main] 2021-07-19 12:28:37 INFO  com.spicybank.main.SpicyBankMain  - 4) View transaction history of particular account
+[main] 2021-07-19 12:28:37 INFO  com.spicybank.main.SpicyBankMain  - 5) All Transaction logs
+[main] 2021-07-19 12:28:37 INFO  com.spicybank.main.SpicyBankMain  - 6) Delete customer account
+[main] 2021-07-19 12:28:37 INFO  com.spicybank.main.SpicyBankMain  - 7) Return to menu
+[main] 2021-07-19 12:28:37 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-7
+[main] 2021-07-19 12:28:40 INFO  com.spicybank.main.SpicyBankMain  - Hello there! Please choose from below options-
+[main] 2021-07-19 12:28:40 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-19 12:28:40 INFO  com.spicybank.main.SpicyBankMain  - 
+1) Login as a customer
+[main] 2021-07-19 12:28:40 INFO  com.spicybank.main.SpicyBankMain  - 2) Login as an employee
+[main] 2021-07-19 12:28:40 INFO  com.spicybank.main.SpicyBankMain  - 3) Return to Main Menu
+[main] 2021-07-19 13:02:30 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Service App v1.0
+[main] 2021-07-19 13:02:30 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-19 13:02:30 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select suitable option from below
+[main] 2021-07-19 13:02:30 INFO  com.spicybank.main.SpicyBankMain  - 1) Login
+[main] 2021-07-19 13:02:30 INFO  com.spicybank.main.SpicyBankMain  - 2) Register
+[main] 2021-07-19 13:02:30 INFO  com.spicybank.main.SpicyBankMain  - 3) Exit
+[main] 2021-07-19 13:02:30 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-3
+[main] 2021-07-19 13:02:30 INFO  com.spicybank.main.SpicyBankMain  - 
+===========================================
+[main] 2021-07-19 13:02:30 INFO  com.spicybank.main.SpicyBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-19 13:02:30 INFO  com.spicybank.main.SpicyBankMain  - #For any queries, feel free to contact @support.spicy.com
+[main] 2021-07-19 13:02:37 INFO  com.spicybank.main.SpicyBankMain  - Hello there! Please choose from below options-
+[main] 2021-07-19 13:02:37 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-19 13:02:37 INFO  com.spicybank.main.SpicyBankMain  - 
+1) Login as a customer
+[main] 2021-07-19 13:02:37 INFO  com.spicybank.main.SpicyBankMain  - 2) Login as an employee
+[main] 2021-07-19 13:02:37 INFO  com.spicybank.main.SpicyBankMain  - 3) Return to Main Menu
+[main] 2021-07-19 13:02:39 INFO  com.spicybank.main.SpicyBankMain  - Please enter your registered userId
+[main] 2021-07-19 13:02:41 ERROR com.spicybank.main.SpicyBankMain  - Invalid Entry X **Please choose an option from above**
+
+[main] 2021-07-19 13:02:41 INFO  com.spicybank.main.SpicyBankMain  - Hello there! Please choose from below options-
+[main] 2021-07-19 13:02:41 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-19 13:02:41 INFO  com.spicybank.main.SpicyBankMain  - 
+1) Login as a customer
+[main] 2021-07-19 13:02:41 INFO  com.spicybank.main.SpicyBankMain  - 2) Login as an employee
+[main] 2021-07-19 13:02:41 INFO  com.spicybank.main.SpicyBankMain  - 3) Return to Main Menu
+[main] 2021-07-19 17:49:39 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Service App v1.0
+[main] 2021-07-19 17:49:39 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-19 17:49:39 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select suitable option from below
+[main] 2021-07-19 17:49:39 INFO  com.spicybank.main.SpicyBankMain  - 1) Login
+[main] 2021-07-19 17:49:39 INFO  com.spicybank.main.SpicyBankMain  - 2) Register
+[main] 2021-07-19 17:49:39 INFO  com.spicybank.main.SpicyBankMain  - 3) Exit
+[main] 2021-07-19 17:49:39 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-3
+[main] 2021-07-19 17:49:39 INFO  com.spicybank.main.SpicyBankMain  - 
+===========================================
+[main] 2021-07-19 17:49:39 INFO  com.spicybank.main.SpicyBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-19 17:49:39 INFO  com.spicybank.main.SpicyBankMain  - #For any queries, feel free to contact @support.spicy.com
+[main] 2021-07-19 17:49:43 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Family. Please enter the following details for getting registered !
+[main] 2021-07-19 17:49:43 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-19 17:49:43 INFO  com.spicybank.main.SpicyBankMain  - Please enter your Full Name
+[main] 2021-07-19 17:49:50 INFO  com.spicybank.main.SpicyBankMain  - Enter your 10 Digit Phone Number
+[main] 2021-07-19 17:49:54 INFO  com.spicybank.main.SpicyBankMain  - Enter your Password
+[main] 2021-07-19 17:50:00 INFO  com.spicybank.main.SpicyBankMain  - Confirm Password
+[main] 2021-07-19 17:50:02 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-19 17:50:02 INFO  com.spicybank.main.SpicyBankMain  - Opening new Bank Account
+[main] 2021-07-19 17:50:02 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-19 17:50:02 INFO  com.spicybank.main.SpicyBankMain  - Kindly enter your PAN number
+[main] 2021-07-19 17:50:08 WARN  com.spicybank.main.SpicyBankMain  - Invalid PAN ! ... Try Again
+[main] 2021-07-19 17:50:08 INFO  com.spicybank.main.SpicyBankMain  - Kindly enter your PAN number
+[main] 2021-07-19 17:50:20 INFO  com.spicybank.main.SpicyBankMain  - Please enter your 12-digit Aadhar Number
+[main] 2021-07-19 17:50:25 INFO  com.spicybank.main.SpicyBankMain  - Enter your City name
+[main] 2021-07-19 17:50:29 INFO  com.spicybank.main.SpicyBankMain  - Enter your state
+[main] 2021-07-19 17:50:29 INFO  com.spicybank.main.SpicyBankMain  - Enter your Pincode
+[main] 2021-07-19 17:50:33 INFO  com.spicybank.main.SpicyBankMain  - Enter opening deposit amount
+[main] 2021-07-19 17:50:37 INFO  com.spicybank.main.SpicyBankMain  - Account created with following details - 
+[main] 2021-07-19 17:50:37 INFO  com.spicybank.main.SpicyBankMain  - Name :att
+[main] 2021-07-19 17:50:37 INFO  com.spicybank.main.SpicyBankMain  - User id :0
+[main] 2021-07-19 17:50:37 INFO  com.spicybank.main.SpicyBankMain  - Password :afaf
+[main] 2021-07-19 17:50:37 INFO  com.spicybank.main.SpicyBankMain  - Phone No. :8525525878
+[main] 2021-07-19 17:50:37 INFO  com.spicybank.main.SpicyBankMain  - Account created with following details - 
+[main] 2021-07-19 17:50:37 INFO  com.spicybank.main.SpicyBankMain  - UserAccount [account=0, name=att, userid=0, pan=ASDFG6908U, aadhar=123132122312, city=j, state=d, status=false, pincode=147005, balance=5000.0]
+[main] 2021-07-19 17:50:37 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Service App v1.0
+[main] 2021-07-19 17:50:37 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-19 17:50:37 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select suitable option from below
+[main] 2021-07-19 17:50:37 INFO  com.spicybank.main.SpicyBankMain  - 1) Login
+[main] 2021-07-19 17:50:37 INFO  com.spicybank.main.SpicyBankMain  - 2) Register
+[main] 2021-07-19 17:50:37 INFO  com.spicybank.main.SpicyBankMain  - 3) Exit
+[main] 2021-07-19 17:50:37 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-3
+[main] 2021-07-19 17:50:37 INFO  com.spicybank.main.SpicyBankMain  - 
+===========================================
+[main] 2021-07-19 17:50:37 INFO  com.spicybank.main.SpicyBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-19 17:50:37 INFO  com.spicybank.main.SpicyBankMain  - #For any queries, feel free to contact @support.spicy.com
+[main] 2021-07-27 15:23:30 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Service App v1.0
+[main] 2021-07-27 15:23:30 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-27 15:23:30 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select suitable option from below
+[main] 2021-07-27 15:23:30 INFO  com.spicybank.main.SpicyBankMain  - 1) Login
+[main] 2021-07-27 15:23:30 INFO  com.spicybank.main.SpicyBankMain  - 2) Register
+[main] 2021-07-27 15:23:30 INFO  com.spicybank.main.SpicyBankMain  - 3) Exit
+[main] 2021-07-27 15:23:30 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-3
+[main] 2021-07-27 15:23:30 INFO  com.spicybank.main.SpicyBankMain  - 
+===========================================
+[main] 2021-07-27 15:23:30 INFO  com.spicybank.main.SpicyBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-27 15:23:30 INFO  com.spicybank.main.SpicyBankMain  - #For any queries, feel free to contact @support.spicy.com
+[main] 2021-07-27 15:23:48 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Service App v1.0
+[main] 2021-07-27 15:23:48 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-07-27 15:23:48 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select suitable option from below
+[main] 2021-07-27 15:23:48 INFO  com.spicybank.main.SpicyBankMain  - 1) Login
+[main] 2021-07-27 15:23:48 INFO  com.spicybank.main.SpicyBankMain  - 2) Register
+[main] 2021-07-27 15:23:48 INFO  com.spicybank.main.SpicyBankMain  - 3) Exit
+[main] 2021-07-27 15:23:48 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-3
+[main] 2021-07-27 15:23:48 INFO  com.spicybank.main.SpicyBankMain  - 
+===========================================
+[main] 2021-07-27 15:23:48 INFO  com.spicybank.main.SpicyBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-07-27 15:23:48 INFO  com.spicybank.main.SpicyBankMain  - #For any queries, feel free to contact @support.spicy.com
+[main] 2021-08-15 17:24:02 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Service App v1.0
+[main] 2021-08-15 17:24:02 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-08-15 17:24:02 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select suitable option from below
+[main] 2021-08-15 17:24:02 INFO  com.spicybank.main.SpicyBankMain  - 1) Login
+[main] 2021-08-15 17:24:02 INFO  com.spicybank.main.SpicyBankMain  - 2) Register
+[main] 2021-08-15 17:24:02 INFO  com.spicybank.main.SpicyBankMain  - 3) Exit
+[main] 2021-08-15 17:24:02 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-3
+[main] 2021-08-15 17:24:02 INFO  com.spicybank.main.SpicyBankMain  - 
+===========================================
+[main] 2021-08-15 17:24:02 INFO  com.spicybank.main.SpicyBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-08-15 17:24:02 INFO  com.spicybank.main.SpicyBankMain  - #For any queries, feel free to contact @support.spicy.com
+[main] 2021-08-15 17:24:14 INFO  com.spicybank.main.SpicyBankMain  - Hello there! Please choose from below options-
+[main] 2021-08-15 17:24:14 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-08-15 17:24:14 INFO  com.spicybank.main.SpicyBankMain  - 
+1) Login as a customer
+[main] 2021-08-15 17:24:14 INFO  com.spicybank.main.SpicyBankMain  - 2) Login as an employee
+[main] 2021-08-15 17:24:14 INFO  com.spicybank.main.SpicyBankMain  - 3) Return to Main Menu
+[main] 2021-08-15 17:24:17 INFO  com.spicybank.main.SpicyBankMain  - Please enter your registered userId
+[main] 2021-08-15 17:24:19 INFO  com.spicybank.main.SpicyBankMain  - Enter Password
+[main] 2021-08-15 17:24:20 INFO  com.spicybank.main.SpicyBankMain  - Enter Password
+[main] 2021-08-15 17:24:29 INFO  com.spicybank.main.SpicyBankMain  - Login Successful!
+[main] 2021-08-15 17:24:29 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-08-15 17:24:29 INFO  com.spicybank.main.SpicyBankMain  - Welcome :admin to SPICY Banking Service App
+[main] 2021-08-15 17:24:29 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-08-15 17:24:29 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select the suitable option from below-
+[main] 2021-08-15 17:24:29 INFO  com.spicybank.main.SpicyBankMain  - 1) Details of all customers
+[main] 2021-08-15 17:24:29 INFO  com.spicybank.main.SpicyBankMain  - 2) Find customer details by Account Number
+[main] 2021-08-15 17:24:29 INFO  com.spicybank.main.SpicyBankMain  - 3) Find customer details by User Id
+[main] 2021-08-15 17:24:29 INFO  com.spicybank.main.SpicyBankMain  - 4) View transaction history of particular account
+[main] 2021-08-15 17:24:29 INFO  com.spicybank.main.SpicyBankMain  - 5) All Transaction logs
+[main] 2021-08-15 17:24:29 INFO  com.spicybank.main.SpicyBankMain  - 6) Delete customer account
+[main] 2021-08-15 17:24:29 INFO  com.spicybank.main.SpicyBankMain  - 7) Return to menu
+[main] 2021-08-15 17:24:29 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-7
+[main] 2021-08-15 17:24:33 INFO  com.spicybank.main.SpicyBankMain  - Welcome :admin to SPICY Banking Service App
+[main] 2021-08-15 17:24:33 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-08-15 17:24:33 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select the suitable option from below-
+[main] 2021-08-15 17:24:33 INFO  com.spicybank.main.SpicyBankMain  - 1) Details of all customers
+[main] 2021-08-15 17:24:33 INFO  com.spicybank.main.SpicyBankMain  - 2) Find customer details by Account Number
+[main] 2021-08-15 17:24:33 INFO  com.spicybank.main.SpicyBankMain  - 3) Find customer details by User Id
+[main] 2021-08-15 17:24:33 INFO  com.spicybank.main.SpicyBankMain  - 4) View transaction history of particular account
+[main] 2021-08-15 17:24:33 INFO  com.spicybank.main.SpicyBankMain  - 5) All Transaction logs
+[main] 2021-08-15 17:24:33 INFO  com.spicybank.main.SpicyBankMain  - 6) Delete customer account
+[main] 2021-08-15 17:24:33 INFO  com.spicybank.main.SpicyBankMain  - 7) Return to menu
+[main] 2021-08-15 17:24:33 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-7
+[main] 2021-08-15 17:24:55 INFO  com.spicybank.main.SpicyBankMain  - Welcome :admin to SPICY Banking Service App
+[main] 2021-08-15 17:24:55 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-08-15 17:24:55 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select the suitable option from below-
+[main] 2021-08-15 17:24:55 INFO  com.spicybank.main.SpicyBankMain  - 1) Details of all customers
+[main] 2021-08-15 17:24:55 INFO  com.spicybank.main.SpicyBankMain  - 2) Find customer details by Account Number
+[main] 2021-08-15 17:24:55 INFO  com.spicybank.main.SpicyBankMain  - 3) Find customer details by User Id
+[main] 2021-08-15 17:24:55 INFO  com.spicybank.main.SpicyBankMain  - 4) View transaction history of particular account
+[main] 2021-08-15 17:24:55 INFO  com.spicybank.main.SpicyBankMain  - 5) All Transaction logs
+[main] 2021-08-15 17:24:55 INFO  com.spicybank.main.SpicyBankMain  - 6) Delete customer account
+[main] 2021-08-15 17:24:55 INFO  com.spicybank.main.SpicyBankMain  - 7) Return to menu
+[main] 2021-08-15 17:24:55 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-7
+[main] 2021-08-15 17:25:08 INFO  com.spicybank.main.SpicyBankMain  - Enter Account Number
+[main] 2021-08-15 17:25:11 INFO  com.spicybank.main.SpicyBankMain  - Enter Account Number
+[main] 2021-08-15 17:25:15 INFO  com.spicybank.main.SpicyBankMain  - Welcome :admin to SPICY Banking Service App
+[main] 2021-08-15 17:25:15 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-08-15 17:25:15 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select the suitable option from below-
+[main] 2021-08-15 17:25:15 INFO  com.spicybank.main.SpicyBankMain  - 1) Details of all customers
+[main] 2021-08-15 17:25:15 INFO  com.spicybank.main.SpicyBankMain  - 2) Find customer details by Account Number
+[main] 2021-08-15 17:25:15 INFO  com.spicybank.main.SpicyBankMain  - 3) Find customer details by User Id
+[main] 2021-08-15 17:25:15 INFO  com.spicybank.main.SpicyBankMain  - 4) View transaction history of particular account
+[main] 2021-08-15 17:25:15 INFO  com.spicybank.main.SpicyBankMain  - 5) All Transaction logs
+[main] 2021-08-15 17:25:15 INFO  com.spicybank.main.SpicyBankMain  - 6) Delete customer account
+[main] 2021-08-15 17:25:15 INFO  com.spicybank.main.SpicyBankMain  - 7) Return to menu
+[main] 2021-08-15 17:25:15 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-7
+[main] 2021-08-15 17:25:24 INFO  com.spicybank.main.SpicyBankMain  - Hello there! Please choose from below options-
+[main] 2021-08-15 17:25:24 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-08-15 17:25:24 INFO  com.spicybank.main.SpicyBankMain  - 
+1) Login as a customer
+[main] 2021-08-15 17:25:24 INFO  com.spicybank.main.SpicyBankMain  - 2) Login as an employee
+[main] 2021-08-15 17:25:24 INFO  com.spicybank.main.SpicyBankMain  - 3) Return to Main Menu
+[main] 2021-08-15 17:25:26 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Service App v1.0
+[main] 2021-08-15 17:25:26 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-08-15 17:25:26 INFO  com.spicybank.main.SpicyBankMain  - 
+Please select suitable option from below
+[main] 2021-08-15 17:25:26 INFO  com.spicybank.main.SpicyBankMain  - 1) Login
+[main] 2021-08-15 17:25:26 INFO  com.spicybank.main.SpicyBankMain  - 2) Register
+[main] 2021-08-15 17:25:26 INFO  com.spicybank.main.SpicyBankMain  - 3) Exit
+[main] 2021-08-15 17:25:26 INFO  com.spicybank.main.SpicyBankMain  - Enter your choice between 1-3
+[main] 2021-08-15 17:25:26 INFO  com.spicybank.main.SpicyBankMain  - 
+===========================================
+[main] 2021-08-15 17:25:26 INFO  com.spicybank.main.SpicyBankMain  - NOTE- Please register if you are a new customer
+[main] 2021-08-15 17:25:26 INFO  com.spicybank.main.SpicyBankMain  - #For any queries, feel free to contact @support.spicy.com
+[main] 2021-08-15 17:25:33 INFO  com.spicybank.main.SpicyBankMain  - Hello there! Please choose from below options-
+[main] 2021-08-15 17:25:33 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-08-15 17:25:33 INFO  com.spicybank.main.SpicyBankMain  - 
+1) Login as a customer
+[main] 2021-08-15 17:25:33 INFO  com.spicybank.main.SpicyBankMain  - 2) Login as an employee
+[main] 2021-08-15 17:25:33 INFO  com.spicybank.main.SpicyBankMain  - 3) Return to Main Menu
+[main] 2021-08-15 17:25:44 INFO  com.spicybank.main.SpicyBankMain  - Please enter your registered userID
+[main] 2021-08-15 17:25:50 INFO  com.spicybank.main.SpicyBankMain  - Enter your password
+[main] 2021-08-15 17:25:53 INFO  com.spicybank.main.SpicyBankMain  - Login Successful !
+[main] 2021-08-15 17:25:53 INFO  com.spicybank.main.SpicyBankMain  - ===========================================
+[main] 2021-08-15 17:25:53 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Services
+[main] 2021-08-15 17:25:53 INFO  com.spicybank.main.SpicyBankMain  - Kindly choose from below options-
+[main] 2021-08-15 17:25:53 INFO  com.spicybank.main.SpicyBankMain  - 1. Check Balance
+[main] 2021-08-15 17:25:53 INFO  com.spicybank.main.SpicyBankMain  - 2. Cash Deposit
+[main] 2021-08-15 17:25:53 INFO  com.spicybank.main.SpicyBankMain  - 3. Cash Withdrawl
+[main] 2021-08-15 17:25:53 INFO  com.spicybank.main.SpicyBankMain  - 4. Get mini statement
+[main] 2021-08-15 17:25:53 INFO  com.spicybank.main.SpicyBankMain  - 5. Check account number
+[main] 2021-08-15 17:25:53 INFO  com.spicybank.main.SpicyBankMain  - 6. Transfer Money
+[main] 2021-08-15 17:25:53 INFO  com.spicybank.main.SpicyBankMain  - 7. Go to Previous Menu
+[main] 2021-08-15 17:26:01 INFO  com.spicybank.main.SpicyBankMain  - Current Account Balance is :17540.0
+[main] 2021-08-15 17:26:01 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Services
+[main] 2021-08-15 17:26:01 INFO  com.spicybank.main.SpicyBankMain  - Kindly choose from below options-
+[main] 2021-08-15 17:26:01 INFO  com.spicybank.main.SpicyBankMain  - 1. Check Balance
+[main] 2021-08-15 17:26:01 INFO  com.spicybank.main.SpicyBankMain  - 2. Cash Deposit
+[main] 2021-08-15 17:26:01 INFO  com.spicybank.main.SpicyBankMain  - 3. Cash Withdrawl
+[main] 2021-08-15 17:26:01 INFO  com.spicybank.main.SpicyBankMain  - 4. Get mini statement
+[main] 2021-08-15 17:26:01 INFO  com.spicybank.main.SpicyBankMain  - 5. Check account number
+[main] 2021-08-15 17:26:01 INFO  com.spicybank.main.SpicyBankMain  - 6. Transfer Money
+[main] 2021-08-15 17:26:01 INFO  com.spicybank.main.SpicyBankMain  - 7. Go to Previous Menu
+[main] 2021-08-15 17:26:07 INFO  com.spicybank.main.SpicyBankMain  - Enter amount you want to deposit :
+[main] 2021-08-15 17:26:11 INFO  com.spicybank.main.SpicyBankMain  - Updated Account Balance is :19540.0
+[main] 2021-08-15 17:26:11 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Services
+[main] 2021-08-15 17:26:11 INFO  com.spicybank.main.SpicyBankMain  - Kindly choose from below options-
+[main] 2021-08-15 17:26:11 INFO  com.spicybank.main.SpicyBankMain  - 1. Check Balance
+[main] 2021-08-15 17:26:11 INFO  com.spicybank.main.SpicyBankMain  - 2. Cash Deposit
+[main] 2021-08-15 17:26:11 INFO  com.spicybank.main.SpicyBankMain  - 3. Cash Withdrawl
+[main] 2021-08-15 17:26:11 INFO  com.spicybank.main.SpicyBankMain  - 4. Get mini statement
+[main] 2021-08-15 17:26:11 INFO  com.spicybank.main.SpicyBankMain  - 5. Check account number
+[main] 2021-08-15 17:26:11 INFO  com.spicybank.main.SpicyBankMain  - 6. Transfer Money
+[main] 2021-08-15 17:26:11 INFO  com.spicybank.main.SpicyBankMain  - 7. Go to Previous Menu
+[main] 2021-08-15 17:26:16 INFO  com.spicybank.main.SpicyBankMain  - Current Account Balance is :19540.0
+[main] 2021-08-15 17:26:16 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Services
+[main] 2021-08-15 17:26:16 INFO  com.spicybank.main.SpicyBankMain  - Kindly choose from below options-
+[main] 2021-08-15 17:26:16 INFO  com.spicybank.main.SpicyBankMain  - 1. Check Balance
+[main] 2021-08-15 17:26:16 INFO  com.spicybank.main.SpicyBankMain  - 2. Cash Deposit
+[main] 2021-08-15 17:26:16 INFO  com.spicybank.main.SpicyBankMain  - 3. Cash Withdrawl
+[main] 2021-08-15 17:26:16 INFO  com.spicybank.main.SpicyBankMain  - 4. Get mini statement
+[main] 2021-08-15 17:26:16 INFO  com.spicybank.main.SpicyBankMain  - 5. Check account number
+[main] 2021-08-15 17:26:16 INFO  com.spicybank.main.SpicyBankMain  - 6. Transfer Money
+[main] 2021-08-15 17:26:16 INFO  com.spicybank.main.SpicyBankMain  - 7. Go to Previous Menu
+[main] 2021-08-15 17:26:22 INFO  com.spicybank.main.SpicyBankMain  - Welcome to SPICY Banking Services
+[main] 2021-08-15 17:26:22 INFO  com.spicybank.main.SpicyBankMain  - Kindly choose from below options-
+[main] 2021-08-15 17:26:22 INFO  com.spicybank.main.SpicyBankMain  - 1. Check Balance
+[main] 2021-08-15 17:26:22 INFO  com.spicybank.main.SpicyBankMain  - 2. Cash Deposit
+[main] 2021-08-15 17:26:22 INFO  com.spicybank.main.SpicyBankMain  - 3. Cash Withdrawl
+[main] 2021-08-15 17:26:22 INFO  com.spicybank.main.SpicyBankMain  - 4. Get mini statement
+[main] 2021-08-15 17:26:22 INFO  com.spicybank.main.SpicyBankMain  - 5. Check account number
+[main] 2021-08-15 17:26:22 INFO  com.spicybank.main.SpicyBankMain  - 6. Transfer Money
+[main] 2021-08-15 17:26:22 INFO  com.spicybank.main.SpicyBankMain  - 7. Go to Previous Menu
